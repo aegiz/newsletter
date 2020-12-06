@@ -1,0 +1,26 @@
+{
+  "toc": [
+    {
+      "moduleName": "Getting Started",
+      "page": [
+        {
+          "title": "Welcome",
+          "url": "L0-01_Welcome.html"
+        },
+        {
+          "title": "Who Should Read This?",
+          "url": "L0-02_WhoFor.html"
+        }
+      ]
+    },
+    {
+      "moduleName": "Module 1",
+      "page": [
+        {
+          "title": "Definitions",
+          "url": "L1-01_Definitions.html"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+# dependencies
+script/node_modules
+
+# misc
+.DS_Store
+package-lock.json
