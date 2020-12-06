@@ -1,26 +1,55 @@
 {
-  "toc": [
+  "intro": {
+    "content": "This is the first issue of this newsletter and I am so glad to have you onboard! Today's edition includes: Bloopers, Haka's baby, PS1 secrets feature (#MadeleineDeProust) and much more joyful content."
+  },
+  "hero": {
+    "image": "https://i.imgur.com/gTP2fAl.png",
+    "alt": "hop",
+    "link": "https://twitter.com/TheoShantonas/status/1327359749218820097",
+    "type": "Video",
+    "title": "Hero article",
+    "description": "Welcome"
+  },
+  "randomArticles": [
     {
-      "moduleName": "Getting Started",
-      "page": [
-        {
-          "title": "Welcome",
-          "url": "L0-01_Welcome.html"
-        },
-        {
-          "title": "Who Should Read This?",
-          "url": "L0-02_WhoFor.html"
-        }
-      ]
+      "image": "https://i.imgur.com/gTP2fAl.png",
+      "link": "https://twitter.com/TheoShantonas/status/1327359749218820097",
+      "type": "Video",
+      "title": "Article 1",
+      "description": "Welcome"
     },
+
     {
-      "moduleName": "Module 1",
-      "page": [
-        {
-          "title": "Definitions",
-          "url": "L1-01_Definitions.html"
-        }
-      ]
+      "image": "https://i.imgur.com/gTP2fAl.png",
+      "link": "https://twitter.com/TheoShantonas/status/1327359749218820097",
+      "type": "Video",
+      "title": "Article 2",
+      "description": "Welcome"
+    }
+  ],
+  "recipe": {
+    "image": "https://i.imgur.com/gTP2fAl.png",
+    "alt": "hop",
+    "link": "https://twitter.com/TheoShantonas/status/1327359749218820097",
+    "type": "Video",
+    "title": "This is a recipe",
+    "description": "Welcome"
+  },
+  "animalCorner": [
+    {
+      "image": "https://i.imgur.com/gTP2fAl.png",
+      "link": "https://twitter.com/TheoShantonas/status/1327359749218820097",
+      "type": "Video",
+      "title": "Animal 1",
+      "description": "Welcome"
+    },
+
+    {
+      "image": "https://i.imgur.com/gTP2fAl.png",
+      "link": "https://twitter.com/TheoShantonas/status/1327359749218820097",
+      "type": "Video",
+      "title": "Animal 2",
+      "description": "Welcome"
     }
   ]
 }

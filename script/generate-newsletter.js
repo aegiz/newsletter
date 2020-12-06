@@ -8,4 +8,4 @@ var data = JSON.parse(fs.readFileSync("data.json").toString());
 
 var h = Mustache.render(template, data);
 
-console.log(h);
+fs.writeFileSync("./index.html", h);
