@@ -1,55 +1,73 @@
 {
   "intro": {
-    "content": "This is the first issue of this newsletter and I am so glad to have you onboard! Today's edition includes: Bloopers, Haka's baby, PS1 secrets feature (#MadeleineDeProust) and much more joyful content."
+    "content": "... And welcome aboard if you are new to this newsletter!<br>In this week's edition we explore the dark side of excellence, we go on a lobster boat and we play hide and seek with an hedgehog. Enjoy!"
   },
   "hero": {
-    "image": "https://i.imgur.com/gTP2fAl.png",
-    "alt": "hop",
-    "link": "https://twitter.com/TheoShantonas/status/1327359749218820097",
-    "type": "Video",
-    "title": "Hero article",
-    "description": "Welcome"
+    "image": "https://i.imgur.com/hICcpyq.png",
+    "alt": "Lobster",
+    "link": "https://www.outsideonline.com/2418783/my-priceless-summer-maine-lobster-boat",
+    "type": "Article",
+    "title": "My summer on a lobster boat",
+    "description": "During her college break, Luna Soley reflects on a time of loneliness, hard work, and natural beauty."
   },
   "randomArticles": [
     {
-      "image": "https://i.imgur.com/gTP2fAl.png",
-      "link": "https://twitter.com/TheoShantonas/status/1327359749218820097",
-      "type": "Video",
-      "title": "Article 1",
-      "description": "Welcome"
+      "image": "https://i.imgur.com/gA4FJZj.png",
+      "alt": "good enough",
+      "link": "https://www.positive.news/lifestyle/wellbeing/would-we-be-happier-if-we-embraced-being-average/",
+      "type": "Article",
+      "title": "Good enough!",
+      "description": "The pursuit of perfection is damaging to our health, researchers claim. We’re better off embracing being ordinary"
     },
-
     {
-      "image": "https://i.imgur.com/gTP2fAl.png",
-      "link": "https://twitter.com/TheoShantonas/status/1327359749218820097",
+      "image": "https://i.imgur.com/ookLec1.png",
+      "alt": "Kosmopolit",
+      "link": "https://www.facebook.com/JeuxOpla/posts/3399756650110249",
       "type": "Video",
-      "title": "Article 2",
-      "description": "Welcome"
+      "title": "(in FR) Kosmopolit, le jeu",
+      "description": "Des chercheurs inventent le jeu qui mêle langues et gastronomie."
+    },
+    {
+      "image": "https://i.imgur.com/fIiG9Ww.png",
+      "alt": "platic school india",
+      "link": "https://www.theguardian.com/global-development/2020/nov/25/the-indian-school-where-students-pay-for-lessons-with-plastic-waste",
+      "type": "Article",
+      "title": "The Indian school where students pay for lessons with plastic waste",
+      "description": "Villagers once burned the toxic waste as fuel, but a pioneering couple’s radical education model uses it much more creatively"
+    },
+    {
+      "image": "https://i.imgur.com/MiKCWpr.png",
+      "alt": "kinetic sculpture",
+      "link": "https://www.youtube.com/watch?v=ROP45rjvOHg",
+      "type": "Video",
+      "title": "Mesmerizing Kinetic Sculptures",
+      "description": "A self-taught artist with a background in physics, David C. Roy has been creating mesmerizing wooden kinetic sculptures for nearly 40 years."
     }
   ],
   "recipe": {
-    "image": "https://i.imgur.com/gTP2fAl.png",
-    "alt": "hop",
-    "link": "https://twitter.com/TheoShantonas/status/1327359749218820097",
-    "type": "Video",
-    "title": "This is a recipe",
-    "description": "Welcome"
+    "image": "https://i.imgur.com/gHrhtyk.png",
+    "alt": "red wine",
+    "link": "https://www.bonappetit.com/story/red-wine-pasta-sauce-elena?mc_cid=47f95a73fc&mc_eid=112b36a715 ",
+    "type": "Article",
+    "title": "Make this pasta with TWO bottles of wine",
+    "description": "This Pasta Uses Two Whole Bottles of Wine—and It’s Delicious"
   },
   "animalCorner": [
     {
-      "image": "https://i.imgur.com/gTP2fAl.png",
-      "link": "https://twitter.com/TheoShantonas/status/1327359749218820097",
+      "image": "https://i.imgur.com/fuQtyeP.png",
+      "alt": "dog",
+      "link": "https://www.tiktok.com/@paw_mate/video/6892833733146119425",
       "type": "Video",
-      "title": "Animal 1",
-      "description": "Welcome"
+      "title": "Dog Flips Out After Losing At Hot Dog Whack-A-Mole Game",
+      "description": "#dog #dogs #foryoupage #trickdog #malinois #hund #doggo #mydog #doglove #hundeliebe"
     },
-
     {
-      "image": "https://i.imgur.com/gTP2fAl.png",
-      "link": "https://twitter.com/TheoShantonas/status/1327359749218820097",
+      "image": "https://i.imgur.com/i9yImJC.png",
+      "alt": "hedgehog",
+      "link": "https://www.tiktok.com/@mr.pokee/video/6851848327076662533",
       "type": "Video",
-      "title": "Animal 2",
-      "description": "Welcome"
+      "title": "I will be watching you",
+      "description": "🦔👀 #hedgehog #petsoftiktok #foryou #stalker #hedgehogsoftiktok"
     }
   ]
 }

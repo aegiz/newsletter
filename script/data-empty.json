@@ -1,0 +1,73 @@
+{
+  "intro": {
+    "content": ""
+  },
+  "hero": {
+    "image": "",
+    "alt": "Lobster",
+    "link": "",
+    "type": "",
+    "title": "",
+    "description": ""
+  },
+  "randomArticles": [
+    {
+      "image": "",
+      "alt": "good enough",
+      "link": "",
+      "type": "",
+      "title": "",
+      "description": ""
+    },
+    {
+      "image": "",
+      "alt": "Kosmopolit",
+      "link": "",
+      "type": "",
+      "title": "",
+      "description": ""
+    },
+    {
+      "image": "",
+      "alt": "platic school india",
+      "link": "",
+      "type": "",
+      "title": "",
+      "description": ""
+    },
+    {
+      "image": "",
+      "alt": "kinetic sculpture",
+      "link": "",
+      "type": "",
+      "title": "",
+      "description": ""
+    }
+  ],
+  "recipe": {
+    "image": "",
+    "alt": "red wine",
+    "link": "",
+    "type": "",
+    "title": "",
+    "description": ""
+  },
+  "animalCorner": [
+    {
+      "image": "",
+      "alt": "",
+      "link": "",
+      "type": "",
+      "title": "",
+      "description": ""
+    },
+    {
+      "image": "",
+      "alt": "",
+      "link": "",
+      "type": "",
+      "title": "",
+      "description": ""
+    }
+  ]
+}
