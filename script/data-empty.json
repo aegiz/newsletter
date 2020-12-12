@@ -4,7 +4,7 @@
   },
   "hero": {
     "image": "",
-    "alt": "Lobster",
+    "alt": "",
     "link": "",
     "type": "",
     "title": "",
@@ -13,7 +13,7 @@
   "randomArticles": [
     {
       "image": "",
-      "alt": "good enough",
+      "alt": "",
       "link": "",
       "type": "",
       "title": "",
@@ -21,7 +21,7 @@
     },
     {
       "image": "",
-      "alt": "Kosmopolit",
+      "alt": "",
       "link": "",
       "type": "",
       "title": "",
@@ -29,7 +29,7 @@
     },
     {
       "image": "",
-      "alt": "platic school india",
+      "alt": "",
       "link": "",
       "type": "",
       "title": "",
@@ -37,7 +37,7 @@
     },
     {
       "image": "",
-      "alt": "kinetic sculpture",
+      "alt": "",
       "link": "",
       "type": "",
       "title": "",
@@ -46,7 +46,7 @@
   ],
   "recipe": {
     "image": "",
-    "alt": "red wine",
+    "alt": "",
     "link": "",
     "type": "",
     "title": "",

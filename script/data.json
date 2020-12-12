@@ -1,73 +1,81 @@
 {
   "intro": {
-    "content": "... And welcome aboard if you are new to this newsletter!<br>In this week's edition we explore the dark side of excellence, we go on a lobster boat and we play hide and seek with an hedgehog. Enjoy!"
+    "content": "Here is your weekly roundup of positive inspiration.<br>On the menu today: Some mucic (actually a lot of music), two otters who fall in love and a fantastic balet of whales!"
   },
   "hero": {
-    "image": "https://i.imgur.com/hICcpyq.png",
-    "alt": "Lobster",
-    "link": "https://www.outsideonline.com/2418783/my-priceless-summer-maine-lobster-boat",
-    "type": "Article",
-    "title": "My summer on a lobster boat",
-    "description": "During her college break, Luna Soley reflects on a time of loneliness, hard work, and natural beauty."
+    "image": "https://i.imgur.com/yLGWBJF.png",
+    "alt": "christmas",
+    "link": "https://twitter.com/afpfr/status/1337162677362196480",
+    "type": "Video",
+    "title": "A lovely Christmas initiative",
+    "description": "Disguised as Mrs. Claus, Fatima Sanson gives gifts and hugs to underprivileged children in Belo Horizonte."
   },
   "randomArticles": [
     {
-      "image": "https://i.imgur.com/gA4FJZj.png",
-      "alt": "good enough",
-      "link": "https://www.positive.news/lifestyle/wellbeing/would-we-be-happier-if-we-embraced-being-average/",
-      "type": "Article",
-      "title": "Good enough!",
-      "description": "The pursuit of perfection is damaging to our health, researchers claim. We’re better off embracing being ordinary"
-    },
-    {
-      "image": "https://i.imgur.com/ookLec1.png",
-      "alt": "Kosmopolit",
-      "link": "https://www.facebook.com/JeuxOpla/posts/3399756650110249",
+      "image": "https://i.imgur.com/KW6rVdC.png",
+      "alt": "playing for change",
+      "link": "https://www.youtube.com/watch?v=3hGSqqhhokE&feature=youtu.be",
       "type": "Video",
-      "title": "(in FR) Kosmopolit, le jeu",
-      "description": "Des chercheurs inventent le jeu qui mêle langues et gastronomie."
+      "title": "Playing For Change",
+      "description": "Song Around the World | Higher Ground | Stevie Wonder (thanks for sharing Marja!)"
     },
     {
-      "image": "https://i.imgur.com/fIiG9Ww.png",
-      "alt": "platic school india",
-      "link": "https://www.theguardian.com/global-development/2020/nov/25/the-indian-school-where-students-pay-for-lessons-with-plastic-waste",
-      "type": "Article",
-      "title": "The Indian school where students pay for lessons with plastic waste",
-      "description": "Villagers once burned the toxic waste as fuel, but a pioneering couple’s radical education model uses it much more creatively"
+      "image": "https://i.imgur.com/n9nR5oa.png",
+      "alt": "Madeline",
+      "link": "https://www.madelineforman.com/about",
+      "type": "Article & Sound",
+      "title": "Madeline Forman",
+      "description": "A 94-year-old woman <a href='https://www.madelineforman.com/about' target='_blank'>rediscovered</a> some music <a href='https://www.madelineforman.com/?mc_cid=07b23c083b&mc_eid=112b36a715' target='_blank'>she recorded</a> in the 1940s."
     },
     {
-      "image": "https://i.imgur.com/MiKCWpr.png",
-      "alt": "kinetic sculpture",
-      "link": "https://www.youtube.com/watch?v=ROP45rjvOHg",
+      "image": "https://i.imgur.com/6OOZAW1.png",
+      "alt": "Tintin",
+      "link": "https://www.facebook.com/permalink.php?story_fbid=954101468350783&id=100012528158324",
       "type": "Video",
-      "title": "Mesmerizing Kinetic Sculptures",
-      "description": "A self-taught artist with a background in physics, David C. Roy has been creating mesmerizing wooden kinetic sculptures for nearly 40 years."
+      "title": "Tintin, the classical OST",
+      "description": "tintin duo cello, accordéon."
+    },
+    {
+      "image": "https://i.imgur.com/jkNrKBN.png",
+      "alt": "tag",
+      "link": "https://youtu.be/mvQ62EdP-mc",
+      "type": "Video",
+      "title": "Tag is a sport!",
+      "description": "The story of how tag became a professional sport"
     }
   ],
   "recipe": {
-    "image": "https://i.imgur.com/gHrhtyk.png",
-    "alt": "red wine",
-    "link": "https://www.bonappetit.com/story/red-wine-pasta-sauce-elena?mc_cid=47f95a73fc&mc_eid=112b36a715 ",
+    "image": "https://i.imgur.com/TcYUdiU.png",
+    "alt": "Audrey recipe",
+    "link": "https://www.silverscreensuppers.com/audrey-hepburn/audrey-hepburns-penne-alla-vodka ",
     "type": "Article",
-    "title": "Make this pasta with TWO bottles of wine",
-    "description": "This Pasta Uses Two Whole Bottles of Wine—and It’s Delicious"
+    "title": "The recipe of Audrey Hepburn’s Penne...",
+    "description": "... alla Vodka!"
   },
   "animalCorner": [
     {
-      "image": "https://i.imgur.com/fuQtyeP.png",
-      "alt": "dog",
-      "link": "https://www.tiktok.com/@paw_mate/video/6892833733146119425",
-      "type": "Video",
-      "title": "Dog Flips Out After Losing At Hot Dog Whack-A-Mole Game",
-      "description": "#dog #dogs #foryoupage #trickdog #malinois #hund #doggo #mydog #doglove #hundeliebe"
+      "image": "https://i.imgur.com/eTSBOQh.png",
+      "alt": "otter",
+      "link": "https://www.dailymail.co.uk/femail/article-9010325/Two-otters-lost-partners-love-matched-keepers.html#v-4764193763189699941",
+      "type": "Article & Video",
+      "title": "Otter-ly in love!",
+      "description": "Two lonely otters who lost their partners find happiness again after being matched online by their keepers."
     },
     {
-      "image": "https://i.imgur.com/i9yImJC.png",
-      "alt": "hedgehog",
-      "link": "https://www.tiktok.com/@mr.pokee/video/6851848327076662533",
+      "image": "https://i.imgur.com/rdgiS4N.png",
+      "alt": "puppy",
+      "link": "https://twitter.com/9GAG/status/1335887022083358722?s=20",
       "type": "Video",
-      "title": "I will be watching you",
-      "description": "🦔👀 #hedgehog #petsoftiktok #foryou #stalker #hedgehogsoftiktok"
+      "title": "wakey wakey!",
+      "description": "Nice morning routine!"
+    },
+    {
+      "image": "https://i.imgur.com/ckKLczn.png",
+      "alt": "whale",
+      "link": "https://www.facebook.com/watch/?v=626032978049128",
+      "type": "Video",
+      "title": "Fishing duo captures breaching Humpback performance",
+      "description": "A father-daughter duo out on Conception Bay, N.L., got the surprise of their lifetime"
     }
   ]
 }
