@@ -6,16 +6,16 @@
     "image": "https://i.imgur.com/yLGWBJF.png",
     "alt": "christmas",
     "link": "https://twitter.com/afpfr/status/1337162677362196480",
-    "type": "Video",
+    "itemType": "Video",
     "title": "A lovely Christmas initiative",
-    "description": "Disguised as Mrs. Claus, Fatima Sanson gives gifts and hugs to underprivileged children in Belo Horizonte."
+    "description": "Dressed as Mrs. Claus, Fatima Sanson gives gifts and hugs to underprivileged children in Belo Horizonte."
   },
   "randomArticles": [
     {
       "image": "https://i.imgur.com/KW6rVdC.png",
       "alt": "playing for change",
       "link": "https://www.youtube.com/watch?v=3hGSqqhhokE&feature=youtu.be",
-      "type": "Video",
+      "itemType": "Video",
       "title": "Playing For Change",
       "description": "Song Around the World | Higher Ground | Stevie Wonder (thanks for sharing Marja!)"
     },
@@ -23,7 +23,7 @@
       "image": "https://i.imgur.com/n9nR5oa.png",
       "alt": "Madeline",
       "link": "https://www.madelineforman.com/about",
-      "type": "Article & Sound",
+      "itemType": "Article & Sound",
       "title": "Madeline Forman",
       "description": "A 94-year-old woman <a href='https://www.madelineforman.com/about' target='_blank'>rediscovered</a> some music <a href='https://www.madelineforman.com/?mc_cid=07b23c083b&mc_eid=112b36a715' target='_blank'>she recorded</a> in the 1940s."
     },
@@ -31,7 +31,7 @@
       "image": "https://i.imgur.com/6OOZAW1.png",
       "alt": "Tintin",
       "link": "https://www.facebook.com/permalink.php?story_fbid=954101468350783&id=100012528158324",
-      "type": "Video",
+      "itemType": "Video",
       "title": "Tintin, the classical OST",
       "description": "tintin duo cello, accordéon."
     },
@@ -39,7 +39,7 @@
       "image": "https://i.imgur.com/jkNrKBN.png",
       "alt": "tag",
       "link": "https://youtu.be/mvQ62EdP-mc",
-      "type": "Video",
+      "itemType": "Video",
       "title": "Tag is a sport!",
       "description": "The story of how tag became a professional sport"
     }
@@ -48,7 +48,7 @@
     "image": "https://i.imgur.com/TcYUdiU.png",
     "alt": "Audrey recipe",
     "link": "https://www.silverscreensuppers.com/audrey-hepburn/audrey-hepburns-penne-alla-vodka ",
-    "type": "Article",
+    "itemType": "Article",
     "title": "The recipe of Audrey Hepburn’s Penne...",
     "description": "... alla Vodka!"
   },
@@ -57,7 +57,7 @@
       "image": "https://i.imgur.com/eTSBOQh.png",
       "alt": "otter",
       "link": "https://www.dailymail.co.uk/femail/article-9010325/Two-otters-lost-partners-love-matched-keepers.html#v-4764193763189699941",
-      "type": "Article & Video",
+      "itemType": "Article & Video",
       "title": "Otter-ly in love!",
       "description": "Two lonely otters who lost their partners find happiness again after being matched online by their keepers."
     },
@@ -65,7 +65,7 @@
       "image": "https://i.imgur.com/rdgiS4N.png",
       "alt": "puppy",
       "link": "https://twitter.com/9GAG/status/1335887022083358722?s=20",
-      "type": "Video",
+      "itemType": "Video",
       "title": "wakey wakey!",
       "description": "Nice morning routine!"
     },
@@ -73,7 +73,7 @@
       "image": "https://i.imgur.com/ckKLczn.png",
       "alt": "whale",
       "link": "https://www.facebook.com/watch/?v=626032978049128",
-      "type": "Video",
+      "itemType": "Video",
       "title": "Fishing duo captures breaching Humpback performance",
       "description": "A father-daughter duo out on Conception Bay, N.L., got the surprise of their lifetime"
     }

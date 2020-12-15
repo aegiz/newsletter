@@ -1,0 +1,20 @@
+{
+  "name": "WCSHNT - Extension",
+  "version": "0.0.3",
+  "description": "An extension to populate quickly Airtable from a click on a page.",
+  "browser_action": {
+    "default_icon": "icon/toolbar_3.png"
+  },
+  "icons": {
+    "16": "icon/icon16_3.png",
+    "32": "icon/icon32_3.png",
+    "48": "icon/icon48_3.png",
+    "128": "icon/icon128_3.png"
+  },
+  "manifest_version": 2,
+  "background": {
+    "page": "background.html",
+    "persistent": true
+  },
+  "permissions": ["activeTab", "downloads", "tabs", "<all_urls>"]
+}
