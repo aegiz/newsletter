@@ -9,9 +9,14 @@
     <div class="edit">
       <div class="loader"></div>
       <div id="base"></div>
-      <div class="image" id="cropped">
-        <span class="points"></span>
-        <p class="helper"></p>
+      <div id="cropped">
+        <p class="helper">Screenshot</p>
+        <a
+          class="helper-link"
+          href="https://airtable.com/tbldn3ooyAJ7Twn9v/viwaTBZ586CuhmrzV?blocks=hide"
+          target="_blank"
+          >[Link]</a
+        >
         <span class="mask"></span>
         <div class="dimensions"></div>
       </div>
@@ -20,6 +25,30 @@
         <a class="call" href="#call">Done</a>
         <a class="download" href="#download">Download</a>
         <a class="close" href="#close">Cancel</a>
+      </div>
+      <div id="moreInfo">
+        <label for="link">URL</label>
+        <input class="input" id="link" type="text" />
+        <label for="title">Title</label>
+        <textarea class="input" id="title"></textarea>
+        <label for="description">Description</label>
+        <textarea class="input" id="description"></textarea>
+        <label for="alt">Alt</label>
+        <input class="input" id="alt" type="text" />
+        <label for="sectionType">Section type</label>
+        <select id="sectionType">
+          <option>hero</option>
+          <option selected="selected">randomArticles</option>
+          <option>recipe</option>
+          <option>animalCorner</option>
+        </select>
+        <label for="itemType">Item type</label>
+        <select id="itemType">
+          <option selected="selected">Article</option>
+          <option>Video</option>
+          <option>Article & Video</option>
+          <option>Article & Sound</option>
+        </select>
       </div>
     </div>
     <script type="text/javascript" src="resources/airtable.browser.js"></script>

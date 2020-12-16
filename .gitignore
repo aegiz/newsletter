@@ -1,5 +1,6 @@
 # dependencies
 script/node_modules
+extension/credentials
 
 # misc
 .DS_Store

@@ -7,8 +7,6 @@
 var backgroundImage;
 var init = true;
 var blobUrl;
-var response;
-var url;
 
 /*
  ************************
@@ -17,12 +15,12 @@ var url;
  */
 
 var initialization = function (request) {
-  document.getElementById("base").style.backgroundImage =
-    "url(" + backgroundImage + ")";
-  document.getElementById("cropped").style.backgroundImage =
-    "url(" + backgroundImage + ")";
-  $(".helper").text("Position and resize this frame around the invader");
-  url = request.url;
+  $("#base").css("backgroundImage", "url(" + backgroundImage + ")");
+  $("#cropped").css("backgroundImage", "url(" + backgroundImage + ")");
+  $("#link").val(request.url);
+  $("#title").text(request.title);
+  $("#alt").val(request.title.split(" ").shift());
+  $("#description").text(request.description);
   init = false;
 };
 
@@ -56,7 +54,6 @@ var gettingAllInputs = function () {
 
 var callImgur = function (form, callback) {
   $(".loader").show();
-  $(".points").removeClass().addClass("points");
 
   console.log("** Making the call to Imgur: ** ");
 
@@ -71,17 +68,27 @@ var callImgur = function (form, callback) {
     },
   };
   $.ajax(settings).done(function (res) {
-    response = res;
-    console.log("link: " + response.data.link);
-    $(".helper").text(response.message);
+    $(".helper").text(res.message);
     $(".loader").hide();
-    callback(response.data.link);
+
+    callback({
+      sectionType: $("#sectionType").val(),
+      alt: $("#alt").val(),
+      link: $("#link").val(),
+      itemType: $("#itemType").val(),
+      title: $("#title").val(),
+      description: $("#description").val(),
+      image: [
+        {
+          url: res.data.link,
+        },
+      ],
+    });
   });
 };
 
-var callAirtable = function (imgurLink) {
+var callAirtable = function (airtableInput) {
   $(".loader").show();
-  $(".points").removeClass().addClass("points");
   console.log("** Making the call to Airtable: ** ");
 
   var Airtable = require("airtable");
@@ -92,19 +99,7 @@ var callAirtable = function (imgurLink) {
   base("Test table").create(
     [
       {
-        fields: {
-          SectionType: "hop",
-          alt: "alt hop",
-          link: url,
-          itemType: "Article",
-          title: "hop title",
-          description: "hop description",
-          image: [
-            {
-              url: imgurLink,
-            },
-          ],
-        },
+        fields: airtableInput,
       },
     ],
     function (err, records) {
@@ -114,6 +109,9 @@ var callAirtable = function (imgurLink) {
         return;
       }
       console.log(records[0]);
+      $(".helper").text("Success!");
+      $(".helper-link").show();
+      $(".download").show();
       $(".loader").hide();
     }
   );
@@ -157,12 +155,10 @@ $(function () {
 
   // Click on the Download CTA
   $("a[href=#download]").click(function () {
-    if (response) {
-      chrome.downloads.download({
-        url: blobUrl,
-        filename: "test.png",
-      });
-    }
+    chrome.downloads.download({
+      url: blobUrl,
+      filename: "screenshot.png",
+    });
     return false;
   });
 
@@ -173,6 +169,7 @@ $(function () {
       containment: "document",
     })
     .resizable({
+      aspectRatio: true,
       grid: [5, 5],
       containment: "document",
       handles: "n, e, s, w, ne, se, sw, nw",
