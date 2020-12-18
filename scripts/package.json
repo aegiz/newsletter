@@ -1,0 +1,28 @@
+{
+  "name": "newsletter",
+  "version": "1.0.0",
+  "description": "A script that get the content of Airtable and transform it into html email content",
+  "main": "generate-newsletter.js",
+  "dependencies": {
+    "airtable": "^0.10.1",
+    "mustache": "^4.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aegiz/newsletter.git"
+  },
+  "keywords": [
+    "newsletter",
+    "automation"
+  ],
+  "author": "Adrien Rahier",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aegiz/newsletter/issues"
+  },
+  "homepage": "https://github.com/aegiz/newsletter#readme"
+}

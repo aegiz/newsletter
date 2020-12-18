@@ -1,6 +1,7 @@
 # dependencies
-script/node_modules
-extension/credentials
+scripts/node_modules
+scripts/creds/credentials.js
+extension/credentials.js
 
 # misc
 .DS_Store

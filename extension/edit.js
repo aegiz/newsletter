@@ -96,7 +96,7 @@ var callAirtable = function (airtableInput) {
     credentials.airtable.base
   );
 
-  base("Test table").create(
+  base("Newsletter content").create(
     [
       {
         fields: airtableInput,
