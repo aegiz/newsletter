@@ -57,6 +57,10 @@ base("Newsletter content")
         console.error(err);
         return;
       }
+      // Make sure to remove the recipe key if none of the articles are from this type
+      if (Object.keys(data.recipe).length === 0) {
+        delete data.recipe;
+      }
       fs.writeFileSync("./output/data.json", JSON.stringify(data));
       console.log("=============================================");
       console.log(

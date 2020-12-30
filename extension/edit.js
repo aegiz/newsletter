@@ -70,12 +70,23 @@ var callImgur = function (form, callback) {
   $.ajax(settings).done(function (res) {
     $(".helper").text(res.message);
     $(".loader").hide();
-
+    let itemType = "";
+    if ($("#itemType").val() === "Article") {
+      itemType = "📝";
+    } else if ($("#itemType").val() === "Video") {
+      itemType = "🎥";
+    } else if ($("#itemType").val() === "Article & Video") {
+      itemType = "📝 🎥";
+    } else if ($("#itemType").val() === "Article & Sound") {
+      itemType = "📝 🔊";
+    } else if ($("#itemType").val() === "Sound") {
+      itemType = "🔊";
+    }
     callback({
       sectionType: $("#sectionType").val(),
       alt: $("#alt").val(),
       link: $("#link").val(),
-      itemType: $("#itemType").val(),
+      itemType: itemType,
       title: $("#title").val(),
       description: $("#description").val(),
       image: [
