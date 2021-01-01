@@ -1,88 +1,90 @@
 {
-  "intro": { "content": "This is the intro of a great newsletter" },
+  "intro": {
+    "content": "Farewell 2020!<br>Take care of yourself and your loved ones and see you again in January ;-)."
+  },
   "hero": {
+    "link": "https://globalvoices.org/2020/12/13/to-revitalise-their-severely-endangered-language-gitxsan-internet-users-get-creative/",
+    "alt": "lang",
     "sectionType": "hero",
-    "alt": "Agence",
-    "link": "https://twitter.com/afpfr/status/1337162677362196480",
-    "itemType": "Video",
-    "title": "A nice christmas",
-    "description": "Déguisée en Mère Noël, Fatima Sanson offre des cadeaux et des câlins aux enfants défavorisés de Belo Hori",
-    "image": "https://dl.airtable.com/.attachmentThumbnails/fbea68c68d45c17c5d2d748b75c2f732/01d4f027"
+    "description": "One Facebook Group, Gitxsan Got Talent, is renewing interest in the language.",
+    "title": "To revitalise their ‘severely endangered’ language, Gitxsan get creative.",
+    "image": "https://dl.airtable.com/.attachmentThumbnails/f0bbcb0754298aa5eb9121f9598485db/9f3d3bf1",
+    "itemType": "📝"
   },
   "randomArticles": [
     {
+      "link": "https://metro.co.uk/2020/12/09/couple-who-get-hundreds-of-santa-letters-by-mistake-have-replied-for-10-years-13726971/",
+      "alt": "Couple",
       "sectionType": "randomArticles",
-      "alt": "Higher",
-      "link": "https://www.youtube.com/watch?v=3hGSqqhhokE&feature=youtu.be",
-      "itemType": "Video",
-      "title": "Higher Ground (Stevie Wonder) | Playing For Change | Song Around the World - YouTube",
-      "description": "We kindly invite you to support Playing For Change and access free  downloads and exclusive videos: http://bit.ly/JoinAndSupportPFCThis video is from our sec...",
-      "image": "https://dl.airtable.com/.attachmentThumbnails/aed028a408e299e767765785648b449c/2195546c"
+      "description": "Jim Glaub and Dylan Parker decided to write back to children’s letters after receiving hundreds of them.",
+      "title": "Couple who get hundreds of Santa letters have replied for 10 years.",
+      "itemType": "📝",
+      "image": "https://dl.airtable.com/.attachmentThumbnails/bbc919faffc15ca3befdc43b4415027a/d8cb68a7"
     },
     {
+      "link": "https://www.stuff.co.nz/national/health/coronavirus/123736995/new-zealand-to-purchase-covid19-vaccines-for-pacific-island-neighbours-including-samoa-and-tonga",
+      "alt": "vaccine",
       "sectionType": "randomArticles",
-      "alt": "ABOUT",
-      "link": "https://www.madelineforman.com/about",
-      "itemType": "Article & Sound",
-      "title": "ABOUT | Madeline",
-      "description": "This is madeline",
-      "image": "https://dl.airtable.com/.attachmentThumbnails/ee20da7ce9927af085cb776bc7159fc3/3c828b2a"
+      "description": "Tokelau, Niue, and the Cook Islands, Tonga, Samoa, and Tuvalu are on the list.",
+      "title": "New Zealand to purchase Covid vaccines for Pacific Island neighbours.",
+      "itemType": "📝",
+      "image": "https://dl.airtable.com/.attachmentThumbnails/ef7d2b2e803b893c0ab744757f2f1833/399224fd"
     },
     {
+      "link": "https://www.youtube.com/watch?v=3NtOuUUlL4w&feature=youtu.be",
+      "alt": "One",
       "sectionType": "randomArticles",
-      "alt": "Facebook",
-      "link": "https://www.facebook.com/permalink.php?story_fbid=954101468350783&id=100012528158324",
-      "itemType": "Video",
-      "title": "Tintin on Facebook",
-      "description": "This is great",
-      "image": "https://dl.airtable.com/.attachmentThumbnails/fc84f505e37e30dbb4d9f6f4a8eb9db9/aa179453"
+      "description": "A short film about collecting, cycling caps, art and design.",
+      "title": "One Thing Leads to Another – or what I've learned from collecting cycling caps.",
+      "itemType": "🎥",
+      "image": "https://dl.airtable.com/.attachmentThumbnails/8da8f20cbfdb1dd7e9cdd4e5f559d29a/c2ecdbbf"
     },
     {
+      "link": "https://www.theguardian.com/world/2020/dec/14/blood-donor-rules-to-be-relaxed-for-gay-and-bisexual-men-in-england",
+      "alt": "Blood",
       "sectionType": "randomArticles",
-      "alt": "How",
-      "link": "https://www.youtube.com/watch?v=mvQ62EdP-mc&feature=youtu.be",
-      "itemType": "Video",
-      "title": "How tag became a professional sport - YouTube",
-      "description": "How do you make a classic children’s game into a sport? The founders of World Chase Tag figured it out.Check out their YouTube channel for more:https://www.y...",
-      "image": "https://dl.airtable.com/.attachmentThumbnails/db8223ff4596a5cb6aa3396bccda0788/d894093c"
+      "description": "Policy change due in 2021 will allow gay and bisexual men in long-term relationships to give blood.",
+      "title": "Blood donor rules to be relaxed for gay and bisexual men in England",
+      "itemType": "📝",
+      "image": "https://dl.airtable.com/.attachmentThumbnails/4695d5dafbb11ee3feff7218ba444bdb/983046b0"
+    },
+    {
+      "link": "https://www.who.int/teams/global-malaria-programme/reports/world-malaria-report-2020",
+      "alt": "Malaria",
+      "sectionType": "randomArticles",
+      "description": "The last two decades has seen unprecedented success in controlling malaria, according to the WHO’s Report.",
+      "title": "WHO report highlighted progress on tackling malaria",
+      "itemType": "📝",
+      "image": "https://dl.airtable.com/.attachmentThumbnails/a56b1f3648cc3bc19013c2eef7ce4ab3/153abad4"
     }
   ],
-  "recipe": {
-    "sectionType": "recipe",
-    "alt": "Audrey",
-    "link": "https://www.silverscreensuppers.com/audrey-hepburn/audrey-hepburns-penne-alla-vodka",
-    "itemType": "Article",
-    "title": "Audrey Hepburn's Penne Alla Vodka - Silver Screen Suppers",
-    "description": "Ah les paaates",
-    "image": "https://dl.airtable.com/.attachmentThumbnails/30cab398eb2498b73d60c568a5cb4cbe/e56256e4"
-  },
   "animalCorner": [
     {
+      "link": "https://twitter.com/xxllthxx/status/1340367451737886720",
+      "alt": "parrot",
       "sectionType": "animalCorner",
-      "alt": "Two",
-      "link": "https://www.dailymail.co.uk/femail/article-9010325/Two-otters-lost-partners-love-matched-keepers.html#v-4764193763189699941",
-      "itemType": "Article",
-      "title": "Two otters that lost their partners find love again after being matched by their keepers  | Daily Mail Online",
-      "description": "Two otters from opposite ends of the country have found love with each other after they both lost their first partners. Harris moved from Cornwall to Scarborough to meet Pumpkin.",
-      "image": "https://dl.airtable.com/.attachmentThumbnails/55e1d832c87cd0a5dad1e288c22dca63/0c418e9a"
+      "description": "And he seems to like it!",
+      "title": "\"I put on some happy hardcore for the bird\"",
+      "itemType": "🎥",
+      "image": "https://dl.airtable.com/.attachmentThumbnails/a213e33b5cb7a45e70cf969b47905aef/26be190c"
     },
     {
+      "link": "https://twitter.com/rachel/status/1338309584260395009",
+      "alt": "Hamster",
       "sectionType": "animalCorner",
-      "alt": "9GAG",
-      "link": "https://twitter.com/9GAG/status/1335887022083358722?s=20",
-      "itemType": "Video",
-      "title": "9GAG op Twitter: \"wakey wakey!⠀ 📹 kenzoykim | IG https://t.co/Qe12P0wfY8\" / Twitter",
-      "description": "This is the cutest pup evaaar",
-      "image": "https://dl.airtable.com/.attachmentThumbnails/c8a5b7cb6091ce82054d8ebd51fa1c86/44a1feca"
+      "description": "Hamster goes brrrr",
+      "title": "This is the best action film of the year",
+      "itemType": "🎥",
+      "image": "https://dl.airtable.com/.attachmentThumbnails/7addc7fac76b22f54dc1ea58f7d373c1/14a7a75d"
     },
     {
+      "link": "https://www.theverge.com/tldr/22169346/squirrels-superhero-pose-photos",
+      "alt": "squirrel",
       "sectionType": "animalCorner",
-      "alt": "Watch",
-      "link": "https://www.facebook.com/watch/?v=626032978049128",
-      "itemType": "Video",
-      "title": "Watch | Facebook",
-      "description": "Woooooaw Whaaaales",
-      "image": "https://dl.airtable.com/.attachmentThumbnails/a268ceea9ff92b5ada578d9d2d79b524/069eb1f8"
+      "description": "If you photograph a squirrel juuuuust right, you can make it look like a superheroe. Here is why.",
+      "title": "About squirrels posing like superheroes",
+      "itemType": "📝",
+      "image": "https://dl.airtable.com/.attachmentThumbnails/d5d04d5d5cb41f05bab3ab071cde3557/b6db10c3"
     }
   ]
 }
