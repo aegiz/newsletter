@@ -13,8 +13,8 @@ let data = {
   },
   hero: {},
   randomArticles: [],
-  recipe: {},
   animalCorner: [],
+  recipe: {},
 };
 
 const credentials = require("./creds/credentials");

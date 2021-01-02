@@ -14,7 +14,7 @@ chrome.browserAction.onClicked.addListener(function (tab) {
       // Capture the visible part of the tab
       chrome.tabs.captureVisibleTab(
         chrome.windows.WINDOW_ID_CURRENT,
-        { format: "png" },
+        { format: "jpeg", quality: 100 },
         function (image) {
           // Scrap the page and look for more infos
           chrome.tabs.executeScript(
@@ -53,7 +53,7 @@ chrome.extension.onMessage.addListener(function (e) {
     function (tabs) {
       chrome.tabs.captureVisibleTab(
         chrome.windows.WINDOW_ID_CURRENT,
-        { format: "png" },
+        { format: "jpeg", quality: 100 },
         function (image) {
           chrome.tabs.sendMessage(tabid, {
             image: image,

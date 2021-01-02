@@ -14,7 +14,24 @@ var blobUrl;
  ************************
  */
 
+function isRetina() {
+  return (
+    ((window.matchMedia &&
+      (window.matchMedia(
+        "only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx), only screen and (min-resolution: 75.6dpcm)"
+      ).matches ||
+        window.matchMedia(
+          "only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2/1), only screen and (min--moz-device-pixel-ratio: 2), only screen and (min-device-pixel-ratio: 2)"
+        ).matches)) ||
+      (window.devicePixelRatio && window.devicePixelRatio >= 2)) &&
+    /(iPad|iPhone|iPod)/g.test(navigator.userAgent)
+  );
+}
+
 var initialization = function (request) {
+  if (isRetina) {
+    $("body").addClass("retina");
+  }
   $("#base").css("backgroundImage", "url(" + backgroundImage + ")");
   $("#cropped").css("backgroundImage", "url(" + backgroundImage + ")");
   $("#link").val(request.url);
@@ -180,7 +197,7 @@ $(function () {
       containment: "document",
     })
     .resizable({
-      aspectRatio: true,
+      // aspectRatio: true,
       grid: [5, 5],
       containment: "document",
       handles: "n, e, s, w, ne, se, sw, nw",

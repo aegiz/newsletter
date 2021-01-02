@@ -1,17 +1,22 @@
+@font-face {
+  font-family: inv;
+  src: url(font/space_invaders.otf);
+}
+
 body {
   background: #222 url(noise.png);
   overflow: hidden;
+  --ratio: 1;
+}
+
+body.retina {
+  --ratio: 2;
 }
 
 *,
 *::before,
 *::after {
   box-sizing: border-box;
-}
-
-@font-face {
-  font-family: inv;
-  src: url(font/space_invaders.otf);
 }
 
 .loader {
@@ -65,7 +70,10 @@ a {
   bottom: 0;
   left: 50%;
   transform: translateX(-50%);
-  padding: 15px 20px;
+  padding-top: calc(15px * var(--ratio));
+  padding-right: calc(20px * var(--ratio));
+  padding-left: calc(20px * var(--ratio));
+  padding-bottom: calc(15px * var(--ratio));
   border-radius: 10px 10px 0px 0px;
   background: rgba(0, 0, 0, 0.5);
   box-shadow: inset rgba(255, 255, 255, 0.15) 0px 0px 0px 1px,
@@ -73,9 +81,13 @@ a {
 }
 
 #toolbar a {
+  font-size: calc(15px * var(--ratio));
   text-align: center;
   font-weight: bold;
-  padding: 3px 15px;
+  padding-top: calc(6px * var(--ratio));
+  padding-right: calc(15px * var(--ratio));
+  padding-left: calc(15px * var(--ratio));
+  padding-bottom: calc(7px * var(--ratio));
   border-radius: 5px;
   display: block;
   float: left;
@@ -192,31 +204,36 @@ a {
   opacity: 1;
 }
 
-#cropped .helper,
-#cropped .helper-link {
+#cropped .helpers {
   position: absolute;
-  top: -30px;
-  color: #fff;
+  top: -40px;
+  left: 0;
   width: 100%;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
   text-align: center;
-  font-size: 11px;
-  line-height: 1.3;
+}
+
+#cropped .helper {
+  color: #fff;
+  font-size: calc(11px * var(--ratio));
+  line-height: 1;
   font-family: "inv", Verdana, sans-serif;
-  margin-left: -5px;
 }
 
 #cropped .helper-link {
   display: none;
+  color: #fff;
+  font-size: calc(12px * var(--ratio));
+  line-height: 0.7;
   font-family: Verdana, sans-serif;
-  margin-left: 54px;
-  font-size: 16px;
-  top: -36px;
 }
 
 .ui-resizable-handle {
   position: absolute;
-  width: 10px;
-  height: 10px;
+  width: calc(10px * var(--ratio));
+  height: calc(10px * var(--ratio));
   background: rgba(0, 0, 0, 0.5);
   border-radius: 2px;
   border: 1px solid rgba(0, 0, 0, 0.25);
@@ -258,11 +275,15 @@ a {
   position: absolute;
   bottom: 5px;
   right: 5px;
-  padding: 0px 5px;
+  padding-top: calc(3px * var(--ratio));
+  padding-left: calc(5px * var(--ratio));
+  padding-right: calc(5px * var(--ratio));
+  padding-bottom: calc(3px * var(--ratio));
   font-size: 10px;
   border-radius: 3px;
   background: rgba(0, 0, 0, 0.5);
   color: #fff;
+  font-size: calc(14px * var(--ratio));
 }
 
 #final {
@@ -274,14 +295,14 @@ a {
   top: 50%;
   right: 0;
   padding: 30px 20px 40px;
-  width: 300px;
+  width: calc(300px * var(--ratio));
   transform: translate(0, -50%);
   background: rgb(255 255 255 / 30%);
 }
 
 #moreInfo select {
   display: block;
-  font-size: 16px;
+  font-size: calc(16px * var(--ratio));
   font-family: sans-serif;
   font-weight: 700;
   color: #444;
@@ -335,7 +356,7 @@ a {
 
 #moreInfo .input {
   width: 100%;
-  font-size: 16px;
+  font-size: calc(16px * var(--ratio));
   font-family: inherit;
   padding: 0.25em 0.5em;
   background-color: #fff;
@@ -352,7 +373,12 @@ a {
 
 #moreInfo .input:not(textarea) {
   line-height: 1;
-  height: 2.25rem;
+  height: calc(2.25rem * var(--ratio));
+}
+
+#moreInfo textarea {
+  line-height: 1;
+  height: calc(60px * var(--ratio));
 }
 
 #moreInfo textarea.input {
@@ -361,7 +387,8 @@ a {
 
 #moreInfo label {
   display: block;
-  margin: 10px 0;
+  margin-top: calc(10px * var(--ratio));
+  margin-bottom: calc(10px * var(--ratio));
   font-weight: bold;
-  font-size: 15px;
+  font-size: calc(15px * var(--ratio));
 }
