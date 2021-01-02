@@ -1,6 +1,6 @@
 {
   "intro": {
-    "content": "Farewell 2020!<br>Take care of yourself and your loved ones and see you again in January ;-)."
+    "content": "This is a super description for the weekly newsletter.<br>Eiusmod proident aliqua tempor magna consequat aliquip <a class='email-link' href='https://itunes.apple.com/'>this is a cool link</a> laboris non excepteur do."
   },
   "hero": {
     "link": "https://globalvoices.org/2020/12/13/to-revitalise-their-severely-endangered-language-gitxsan-internet-users-get-creative/",
@@ -9,7 +9,7 @@
     "description": "One Facebook Group, Gitxsan Got Talent, is renewing interest in the language.",
     "title": "To revitalise their ‘severely endangered’ language, Gitxsan get creative.",
     "image": "https://dl.airtable.com/.attachmentThumbnails/f0bbcb0754298aa5eb9121f9598485db/9f3d3bf1",
-    "itemType": "📝"
+    "itemType": "Article"
   },
   "randomArticles": [
     {
@@ -18,7 +18,7 @@
       "sectionType": "randomArticles",
       "description": "Jim Glaub and Dylan Parker decided to write back to children’s letters after receiving hundreds of them.",
       "title": "Couple who get hundreds of Santa letters have replied for 10 years.",
-      "itemType": "📝",
+      "itemType": "Article",
       "image": "https://dl.airtable.com/.attachmentThumbnails/bbc919faffc15ca3befdc43b4415027a/d8cb68a7"
     },
     {
@@ -27,7 +27,7 @@
       "sectionType": "randomArticles",
       "description": "Tokelau, Niue, and the Cook Islands, Tonga, Samoa, and Tuvalu are on the list.",
       "title": "New Zealand to purchase Covid vaccines for Pacific Island neighbours.",
-      "itemType": "📝",
+      "itemType": "Article",
       "image": "https://dl.airtable.com/.attachmentThumbnails/ef7d2b2e803b893c0ab744757f2f1833/399224fd"
     },
     {
@@ -36,7 +36,7 @@
       "sectionType": "randomArticles",
       "description": "A short film about collecting, cycling caps, art and design.",
       "title": "One Thing Leads to Another – or what I've learned from collecting cycling caps.",
-      "itemType": "🎥",
+      "itemType": "Video",
       "image": "https://dl.airtable.com/.attachmentThumbnails/8da8f20cbfdb1dd7e9cdd4e5f559d29a/c2ecdbbf"
     },
     {
@@ -45,7 +45,7 @@
       "sectionType": "randomArticles",
       "description": "Policy change due in 2021 will allow gay and bisexual men in long-term relationships to give blood.",
       "title": "Blood donor rules to be relaxed for gay and bisexual men in England",
-      "itemType": "📝",
+      "itemType": "Article",
       "image": "https://dl.airtable.com/.attachmentThumbnails/4695d5dafbb11ee3feff7218ba444bdb/983046b0"
     },
     {
@@ -54,7 +54,7 @@
       "sectionType": "randomArticles",
       "description": "The last two decades has seen unprecedented success in controlling malaria, according to the WHO’s Report.",
       "title": "WHO report highlighted progress on tackling malaria",
-      "itemType": "📝",
+      "itemType": "Article",
       "image": "https://dl.airtable.com/.attachmentThumbnails/a56b1f3648cc3bc19013c2eef7ce4ab3/153abad4"
     }
   ],
@@ -65,7 +65,7 @@
       "sectionType": "animalCorner",
       "description": "And he seems to like it!",
       "title": "\"I put on some happy hardcore for the bird\"",
-      "itemType": "🎥",
+      "itemType": "Video",
       "image": "https://dl.airtable.com/.attachmentThumbnails/a213e33b5cb7a45e70cf969b47905aef/26be190c"
     },
     {
@@ -74,7 +74,7 @@
       "sectionType": "animalCorner",
       "description": "Hamster goes brrrr",
       "title": "This is the best action film of the year",
-      "itemType": "🎥",
+      "itemType": "Video",
       "image": "https://dl.airtable.com/.attachmentThumbnails/7addc7fac76b22f54dc1ea58f7d373c1/14a7a75d"
     },
     {
@@ -83,7 +83,7 @@
       "sectionType": "animalCorner",
       "description": "If you photograph a squirrel juuuuust right, you can make it look like a superheroe. Here is why.",
       "title": "About squirrels posing like superheroes",
-      "itemType": "📝",
+      "itemType": "Article",
       "image": "https://dl.airtable.com/.attachmentThumbnails/d5d04d5d5cb41f05bab3ab071cde3557/b6db10c3"
     }
   ]

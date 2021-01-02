@@ -2,6 +2,15 @@
  * This files creates the actual newsletter HTML content
  */
 
+// Need to add in data.json:
+// - typeIconURL https://i.imgur.com/xQjdCc8.png (video) || https://i.imgur.com/m99vnQi.png (article)
+// - time to read
+// - What I thought of this text
+// - the new image (with an hheight of ...)
+// image size in the extension directly
+
+// To remove: sectionType
+
 "use strict";
 
 const fs = require("fs");
