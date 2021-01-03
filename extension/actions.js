@@ -1,8 +1,10 @@
 var tabid;
 
-var code = `var meta = document.querySelector("meta[name='description']");
+var code = `
+  var words = document.body.innerText.split(' ').length;
+  var meta = document.querySelector("meta[name='description']");
   if (meta) meta = meta.getAttribute("content");
-  ({title: document.title, description: meta || ""});
+  ({title: document.title, description: meta || "", words});
 `;
 
 // Send to the edit page capturing the visible part of the current tab + passing the current URL
@@ -35,6 +37,7 @@ chrome.browserAction.onClicked.addListener(function (tab) {
                     url: currentUrl,
                     title: result.title,
                     description: result.description,
+                    words: result.words,
                   });
                 }, 1000);
               });

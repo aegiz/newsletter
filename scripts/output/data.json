@@ -1,90 +1,116 @@
 {
-  "intro": {
-    "content": "This is a super description for the weekly newsletter.<br>Eiusmod proident aliqua tempor magna consequat aliquip <a class='email-link' href='https://itunes.apple.com/'>this is a cool link</a> laboris non excepteur do."
-  },
+  "intro": { "content": "XXX" },
   "hero": {
     "link": "https://globalvoices.org/2020/12/13/to-revitalise-their-severely-endangered-language-gitxsan-internet-users-get-creative/",
+    "time": "4 min read",
     "alt": "lang",
-    "sectionType": "hero",
-    "description": "One Facebook Group, Gitxsan Got Talent, is renewing interest in the language.",
+    "description": "The Indigenous Gitxsan language is under siege, but by harnessing the very technology that threatens to erase it, one Facebook Group, Gitxsan Got Talent, is renewing interest in the language.",
     "title": "To revitalise their ‘severely endangered’ language, Gitxsan get creative.",
+    "itemType": "Article",
     "image": "https://dl.airtable.com/.attachmentThumbnails/f0bbcb0754298aa5eb9121f9598485db/9f3d3bf1",
-    "itemType": "Article"
+    "typeIconURL": "https://i.imgur.com/m99vnQi.png",
+    "why": "XXX"
   },
   "randomArticles": [
     {
       "link": "https://metro.co.uk/2020/12/09/couple-who-get-hundreds-of-santa-letters-by-mistake-have-replied-for-10-years-13726971/",
+      "time": "4 min read",
       "alt": "Couple",
-      "sectionType": "randomArticles",
-      "description": "Jim Glaub and Dylan Parker decided to write back to children’s letters after receiving hundreds of them.",
-      "title": "Couple who get hundreds of Santa letters have replied for 10 years.",
+      "description": "Jim Glaub and Dylan Parker decided to write back to children’s letters after receiving hundreds of festive requests every year in New York.",
+      "title": "Couple who get hundreds of Santa letters have replied for 10 years",
       "itemType": "Article",
-      "image": "https://dl.airtable.com/.attachmentThumbnails/bbc919faffc15ca3befdc43b4415027a/d8cb68a7"
+      "image": "https://dl.airtable.com/.attachmentThumbnails/bbc919faffc15ca3befdc43b4415027a/d8cb68a7",
+      "typeIconURL": "https://i.imgur.com/m99vnQi.png"
     },
     {
       "link": "https://www.stuff.co.nz/national/health/coronavirus/123736995/new-zealand-to-purchase-covid19-vaccines-for-pacific-island-neighbours-including-samoa-and-tonga",
+      "time": "4 min read",
       "alt": "vaccine",
-      "sectionType": "randomArticles",
       "description": "Tokelau, Niue, and the Cook Islands, Tonga, Samoa, and Tuvalu are on the list.",
       "title": "New Zealand to purchase Covid vaccines for Pacific Island neighbours.",
       "itemType": "Article",
-      "image": "https://dl.airtable.com/.attachmentThumbnails/ef7d2b2e803b893c0ab744757f2f1833/399224fd"
+      "image": "https://dl.airtable.com/.attachmentThumbnails/ef7d2b2e803b893c0ab744757f2f1833/399224fd",
+      "typeIconURL": "https://i.imgur.com/m99vnQi.png"
     },
     {
       "link": "https://www.youtube.com/watch?v=3NtOuUUlL4w&feature=youtu.be",
+      "time": "2 min",
       "alt": "One",
-      "sectionType": "randomArticles",
       "description": "A short film about collecting, cycling caps, art and design.",
       "title": "One Thing Leads to Another – or what I've learned from collecting cycling caps.",
       "itemType": "Video",
-      "image": "https://dl.airtable.com/.attachmentThumbnails/8da8f20cbfdb1dd7e9cdd4e5f559d29a/c2ecdbbf"
+      "image": "https://dl.airtable.com/.attachmentThumbnails/8da8f20cbfdb1dd7e9cdd4e5f559d29a/c2ecdbbf",
+      "typeIconURL": "https://i.imgur.com/xQjdCc8.png"
     },
     {
       "link": "https://www.theguardian.com/world/2020/dec/14/blood-donor-rules-to-be-relaxed-for-gay-and-bisexual-men-in-england",
+      "time": "4 min read",
       "alt": "Blood",
-      "sectionType": "randomArticles",
       "description": "Policy change due in 2021 will allow gay and bisexual men in long-term relationships to give blood.",
       "title": "Blood donor rules to be relaxed for gay and bisexual men in England",
-      "itemType": "Article",
-      "image": "https://dl.airtable.com/.attachmentThumbnails/4695d5dafbb11ee3feff7218ba444bdb/983046b0"
+      "itemType": "Audio",
+      "image": "https://dl.airtable.com/.attachmentThumbnails/4695d5dafbb11ee3feff7218ba444bdb/983046b0",
+      "typeIconURL": "https://i.imgur.com/WREdaIG.png"
     },
     {
       "link": "https://www.who.int/teams/global-malaria-programme/reports/world-malaria-report-2020",
+      "time": "4 min read",
       "alt": "Malaria",
-      "sectionType": "randomArticles",
-      "description": "The last two decades has seen unprecedented success in controlling malaria, according to the WHO’s Report.",
+      "description": "The last two decades has seen unprecedented success in controlling malaria, according to the WHO’s 2020 World Malaria Report.",
       "title": "WHO report highlighted progress on tackling malaria",
-      "itemType": "Article",
-      "image": "https://dl.airtable.com/.attachmentThumbnails/a56b1f3648cc3bc19013c2eef7ce4ab3/153abad4"
+      "itemType": "Article & Audio",
+      "image": "https://dl.airtable.com/.attachmentThumbnails/a56b1f3648cc3bc19013c2eef7ce4ab3/153abad4",
+      "typeIconURL": "https://i.imgur.com/LzEMkn8.png"
+    },
+    {
+      "alt": "Mailbrew",
+      "link": "https://mailbrew.com/",
+      "itemType": "Article & Video",
+      "title": "Mailbrew - Your personal email digest",
+      "description": "Create beautiful, automated newsletters with content from the sites and apps you love.",
+      "time": "5 min read",
+      "image": "https://dl.airtable.com/.attachmentThumbnails/47a754b80fcf2fbab0199f1261879ee4/d9163ddf",
+      "typeIconURL": "https://i.imgur.com/gLT7BO4.png"
     }
   ],
   "animalCorner": [
     {
       "link": "https://twitter.com/xxllthxx/status/1340367451737886720",
+      "time": "8 min",
       "alt": "parrot",
-      "sectionType": "animalCorner",
       "description": "And he seems to like it!",
       "title": "\"I put on some happy hardcore for the bird\"",
       "itemType": "Video",
-      "image": "https://dl.airtable.com/.attachmentThumbnails/a213e33b5cb7a45e70cf969b47905aef/26be190c"
+      "image": "https://dl.airtable.com/.attachmentThumbnails/a213e33b5cb7a45e70cf969b47905aef/26be190c",
+      "typeIconURL": "https://i.imgur.com/xQjdCc8.png"
     },
     {
       "link": "https://twitter.com/rachel/status/1338309584260395009",
+      "time": "10 min",
       "alt": "Hamster",
-      "sectionType": "animalCorner",
       "description": "Hamster goes brrrr",
       "title": "This is the best action film of the year",
       "itemType": "Video",
-      "image": "https://dl.airtable.com/.attachmentThumbnails/7addc7fac76b22f54dc1ea58f7d373c1/14a7a75d"
+      "image": "https://dl.airtable.com/.attachmentThumbnails/7addc7fac76b22f54dc1ea58f7d373c1/14a7a75d",
+      "typeIconURL": "https://i.imgur.com/xQjdCc8.png"
     },
     {
       "link": "https://www.theverge.com/tldr/22169346/squirrels-superhero-pose-photos",
+      "time": "4 min read",
       "alt": "squirrel",
-      "sectionType": "animalCorner",
       "description": "If you photograph a squirrel juuuuust right, you can make it look like a superheroe. Here is why.",
       "title": "About squirrels posing like superheroes",
       "itemType": "Article",
-      "image": "https://dl.airtable.com/.attachmentThumbnails/d5d04d5d5cb41f05bab3ab071cde3557/b6db10c3"
+      "image": "https://dl.airtable.com/.attachmentThumbnails/d5d04d5d5cb41f05bab3ab071cde3557/b6db10c3",
+      "typeIconURL": "https://i.imgur.com/m99vnQi.png"
     }
-  ]
+  ],
+  "recipe": {
+    "image": "https://i.imgur.com/TcYUdiU.png",
+    "alt": "Audrey recipe",
+    "link": "https://www.silverscreensuppers.com/audrey-hepburn/audrey-hepburns-penne-alla-vodka ",
+    "itemType": "Article",
+    "title": "The recipe of Audrey Hepburn’s",
+    "description": "Penne... alla Vodka!"
+  }
 }

@@ -9,7 +9,7 @@ const Airtable = require("airtable");
 
 let data = {
   intro: {
-    content: "",
+    content: "XXX",
   },
   hero: {},
   randomArticles: [],
@@ -22,6 +22,24 @@ const base = new Airtable({ apiKey: credentials.airtable.apiKey }).base(
   credentials.airtable.base
 );
 
+function associateIconToType(itemType) {
+  let typeIconURL = "";
+  if (itemType === "Video") {
+    typeIconURL = "https://i.imgur.com/xQjdCc8.png";
+  } else if (itemType === "Article") {
+    typeIconURL = "https://i.imgur.com/m99vnQi.png";
+  } else if (itemType === "Article & Video") {
+    typeIconURL = "https://i.imgur.com/gLT7BO4.png";
+  } else if (itemType === "Article & Audio") {
+    typeIconURL = "https://i.imgur.com/LzEMkn8.png";
+  } else if (itemType === "Audio") {
+    typeIconURL = "https://i.imgur.com/WREdaIG.png";
+  } else {
+    console.log("Error with icon itemType: ", itemType);
+  }
+  return typeIconURL;
+}
+
 base("Newsletter content")
   .select({
     maxRecords: 100,
@@ -33,8 +51,14 @@ base("Newsletter content")
       records.forEach(function (record) {
         let cleanRecord = record.fields;
         cleanRecord.image = record.fields.image[0].thumbnails.large.url;
+        cleanRecord.time = `${record.fields.time}${
+          record.fields.itemType !== "Video" ? " read" : ""
+        }`;
+        cleanRecord.typeIconURL = associateIconToType(record.fields.itemType);
         const sectionType = record.get("sectionType");
+        delete cleanRecord.sectionType;
         if (sectionType === "hero") {
+          cleanRecord.why = "XXX";
           data.hero = cleanRecord;
         } else if (sectionType === "randomArticles") {
           data.randomArticles.push(cleanRecord);

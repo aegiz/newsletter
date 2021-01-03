@@ -183,12 +183,12 @@ a {
 #cropped {
   z-index: 0;
   position: absolute;
-  top: calc(50% - 120px);
-  left: calc(50% - 120px);
+  top: calc(50% - 60px);
+  left: calc(50% - 70px);
   background-position: 50% 50%;
   background-repeat: no-repeat;
-  width: 240px;
-  height: 240px;
+  width: 140px;
+  height: 119px;
   box-shadow: rgba(0, 0, 0, 0.25) 0px 0px 0px 5px;
   cursor: grab;
 }
@@ -390,5 +390,14 @@ a {
   margin-top: calc(10px * var(--ratio));
   margin-bottom: calc(10px * var(--ratio));
   font-weight: bold;
+  font-size: calc(15px * var(--ratio));
+}
+
+#moreInfo .info-textSize p:first-child {
+  font-weight: bold;
+}
+
+#moreInfo .info-textSize p {
+  margin-top: calc(13px * var(--ratio));
   font-size: calc(15px * var(--ratio));
 }

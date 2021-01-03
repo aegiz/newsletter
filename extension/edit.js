@@ -10,7 +10,7 @@ var blobUrl;
 
 /*
  ************************
- **** Functional code ***
+ ******* Helpers ********
  ************************
  */
 
@@ -28,6 +28,17 @@ function isRetina() {
   );
 }
 
+function calculateReadingTime(words) {
+  const wordsPerMinute = 200; // Average
+  return `${Math.ceil(words / wordsPerMinute)} min`;
+}
+
+/*
+ ************************
+ **** Functional code ***
+ ************************
+ */
+
 var initialization = function (request) {
   if (isRetina) {
     $("body").addClass("retina");
@@ -38,6 +49,7 @@ var initialization = function (request) {
   $("#title").text(request.title);
   $("#alt").val(request.title.split(" ").shift());
   $("#description").text(request.description);
+  $("#time").val(calculateReadingTime(request.words));
   init = false;
 };
 
@@ -87,25 +99,14 @@ var callImgur = function (form, callback) {
   $.ajax(settings).done(function (res) {
     $(".helper").text(res.message);
     $(".loader").hide();
-    let itemType = "";
-    if ($("#itemType").val() === "Article") {
-      itemType = "📝";
-    } else if ($("#itemType").val() === "Video") {
-      itemType = "🎥";
-    } else if ($("#itemType").val() === "Article & Video") {
-      itemType = "📝 🎥";
-    } else if ($("#itemType").val() === "Article & Sound") {
-      itemType = "📝 🔊";
-    } else if ($("#itemType").val() === "Sound") {
-      itemType = "🔊";
-    }
     callback({
       sectionType: $("#sectionType").val(),
       alt: $("#alt").val(),
       link: $("#link").val(),
-      itemType: itemType,
+      itemType: $("#itemType").val(),
       title: $("#title").val(),
       description: $("#description").val(),
+      time: $("#time").val(),
       image: [
         {
           url: res.data.link,
