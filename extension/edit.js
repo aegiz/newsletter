@@ -14,15 +14,6 @@ var blobUrl;
  ************************
  */
 
-function isRetinaDisplay() {
-  if (window.matchMedia) {
-    var mq = window.matchMedia(
-      "only screen and (min--moz-device-pixel-ratio: 1.3), only screen and (-o-min-device-pixel-ratio: 2.6/2), only screen and (-webkit-min-device-pixel-ratio: 1.3), only screen  and (min-device-pixel-ratio: 1.3), only screen and (min-resolution: 1.3dppx)"
-    );
-    return (mq && mq.matches) || window.devicePixelRatio > 1;
-  }
-}
-
 function calculateReadingTime(words) {
   const wordsPerMinute = 200; // Average
   return `${Math.ceil(words / wordsPerMinute)} min`;
@@ -35,7 +26,7 @@ function calculateReadingTime(words) {
  */
 
 var initialization = function (request) {
-  if (isRetinaDisplay()) {
+  if (credentials.retina) {
     $("body").addClass("retina");
   }
   $("#base").css("backgroundImage", "url(" + backgroundImage + ")");
