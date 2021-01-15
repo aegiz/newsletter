@@ -40,7 +40,7 @@ function calculateReadingTime(words) {
  */
 
 var initialization = function (request) {
-  if (isRetina) {
+  if (isRetina()) {
     $("body").addClass("retina");
   }
   $("#base").css("backgroundImage", "url(" + backgroundImage + ")");
