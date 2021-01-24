@@ -1,1 +1,110 @@
-{"intro":{"content":"XXX"},"hero":{"alt":"Melies","link":"https://www.lemonde.fr/culture/article/2021/01/09/le-mystere-melies-sur-arte-comment-l-uvre-du-cineaste-entierement-detruite-a-ete-reconstituee_6065748_3246.html","itemType":"Article & Video","title":"George Méliès mystery","description":"(FR) Le documentaire de Serge Bromberg et d’Eric Lange raconte par quel miracle des négatifs que Georges Méliès avaient brûlés ont été retrouvés, permettant la restauration progressive d’une partie de ses films.","image":"https://dl.airtable.com/.attachmentThumbnails/6ffdfec17bebf29e5d14ecea8e6b295b/6437320f","time":"6 min read","typeIconURL":"https://i.imgur.com/gLT7BO4.png","why":"XXX"},"randomArticles":[{"alt":"Potirothon","link":"https://www.google.com/search?q=Potirothon","itemType":"Article","title":"The Potirothon event","description":"In October, the community of Bécancour, Quebec, hollow out their largest pumpkins and carve them into boats for the annual regata on the Bécancour River, known as Potirothon.","image":"https://dl.airtable.com/.attachmentThumbnails/8cf580c299218eacfe5be5811ace7622/f086133e","time":"2 min read","typeIconURL":"https://i.imgur.com/m99vnQi.png"},{"alt":"china","link":"https://www.theguardian.com/artanddesign/gallery/2021/jan/07/great-walls-of-china-beijings-burgeoning-graffiti-scene-in-pictures","itemType":"Article","title":"Great walls of China: Beijing's burgeoning graffiti scene","description":"A thriving graffiti culture has been brewing for decades in Beijing.","image":"https://dl.airtable.com/.attachmentThumbnails/dc778cb790e712dc5efb1c59b1b88560/656ec2e7","time":"7 min read","typeIconURL":"https://i.imgur.com/m99vnQi.png"},{"alt":"Cleantech","link":"https://business.lesechos.fr/entrepreneurs/idees-de-business/0610142493998-cleantech-birds-for-change-dresse-des-oiseaux-pour-nettoyer-les-rues-341371.php","itemType":"Article","title":"Cleantech : Birds for Change","description":"The start-up Birds for Change is breeding crows to clean streets (article in FR).","image":"https://dl.airtable.com/.attachmentThumbnails/40de5e7e891058e83c24d0b693412037/a3e343cf","time":"4 min read","typeIconURL":"https://i.imgur.com/m99vnQi.png"},{"alt":"Irish","link":"https://mynoise.net/NoiseMachines/windSeaRainNoiseGenerator.php?mc_cid=1a80149347&mc_eid=112b36a715","itemType":"Audio","title":"Irish Coast, Ocean Waves, Wind and Rain Noise Generator","description":"This soundscape combines them all - the ocean waves, the wind and the rain - into a powerful sound blocker.","image":"https://dl.airtable.com/.attachmentThumbnails/4e5e8c91d41404061a3a2f33839cfac8/5abebbfc","time":"x min read","typeIconURL":"https://i.imgur.com/WREdaIG.png"}],"animalCorner":[{"alt":"deer","link":"https://twitter.com/KurtKohlstedt/status/1347059063864119301","itemType":"Video","title":"🦌 🌅","description":"We interrupt your regularly scheduled doomscrolling to bring you a joyful deer prancing across a beach at sunrise.","image":"https://dl.airtable.com/.attachmentThumbnails/ebf8b2a7507d976c62b5b4249b668f8e/80f29d5e","time":"0:12 min","typeIconURL":"https://i.imgur.com/xQjdCc8.png"},{"alt":"piano","link":"https://twitter.com/stretch_aye/status/1344399542188470275","itemType":"Video","title":"🐕🎹","description":"Il jouait du piano debout","image":"https://dl.airtable.com/.attachmentThumbnails/0bd75da759284d8724f922de93c0def6/0b21782c","time":"0:15 min","typeIconURL":"https://i.imgur.com/xQjdCc8.png"},{"alt":"cinema","link":"https://twitter.com/kingsley_tom/status/1346365034864246784","itemType":"Video","title":"🐈🍿","description":"I've made a special Lockdown Cinema for my laptop to replicate the big screen experience ","image":"https://dl.airtable.com/.attachmentThumbnails/528b16379822e3398184dff00a482a3a/ec02e8b0","time":"0:25 min","typeIconURL":"https://i.imgur.com/xQjdCc8.png"}],"recipe":{"alt":"pepper","link":"https://www.tiktok.com/@chefmingtsai/video/6914339194584304902?_d=secCgYIASAHKAESMgowaqI0%2F7Vhp6F41wWCBLDZku4icCMB5rRFw0c7lIIrbgF09DQXgWCjCcOBEuUMl%2BbnGgA%3D&language=en&preview_pb=0&sec_user_id=MS4wLjABAAAAVebdcD4gxeYS9H31EribUyXOvj-ueijmBYQG0rstTcIWR6JkBqoQRJF6B1_85MKp&share_item_id=6914339194584304902&share_link_id=712DE37F-4D49-44A2-8BAD-4654A9A8A7DB&timestamp=1609948587&tt_from=copy&u_code=d49hicfm8i691a&user_id=6649444156279521286&utm_campaign=client_share&utm_medium=ios&utm_source=copy&source=h5_m","itemType":"Video","title":"The best way to break down a bell pepper 🫑","description":"Not \"Recipe of the week\" per say but still a very cool trick to know! ","image":"https://dl.airtable.com/.attachmentThumbnails/21910778df5ca8310d8db7f639678d5d/4ff3ac95","time":"2 min","typeIconURL":"https://i.imgur.com/xQjdCc8.png"}}
+{
+  "intro": {
+    "content": "Hey {{ contact.FIRSTNAME }}, how’s everything going?<br>In today’s newsletter there's plenty to see and watch so let’s not waste a minute and hop on this joyful train. Here are the stops we'll make today:<ul><li>Look back at 2020 by playing a fun game and see what’s coming up next in tech.</li><li>Marvel over the Ice sculptures of the British artist, Andy Goldsworthy!</li><li>And obviously checkout the Animal Corner section to have your weekly shot of cuteness ;-)</li></ul>Let's ride!"
+  },
+  "hero": {
+    "link": "https://www.theatlantic.com/family/archive/2021/01/checklist-achievements-happiness-boxes/617756/",
+    "time": "9 min read",
+    "alt": "success",
+    "description": "To increase our happiness, we need better questions than “What accomplishments should be on my scorecard?”",
+    "title": "True Success Is More Than Checking Boxes",
+    "itemType": "Article",
+    "image": "https://dl.airtable.com/.attachmentThumbnails/3a9d7838cbbb731f5fd28c448a8281af/f8bb8e70",
+    "typeIconURL": "https://i.imgur.com/m99vnQi.png",
+    "why": "If you know me well, you probably already know that I am a huge fan of todo-list. This is my preferred way to keep track of things and it really helps me achieve professional goals as well as organise my personal life.<br> However, an important question with this is: does all of this make me really happy? I won’t give you the answer but have a look at this long article from the Atlantic. It quite opened up my eyes."
+  },
+  "randomArticles": [
+    {
+      "link": "https://2020game.io/",
+      "time": "1 min",
+      "alt": "2020",
+      "description": "Play through all the major events of 2020!",
+      "title": "If 2020 was a game",
+      "itemType": "Video Game",
+      "image": "https://dl.airtable.com/.attachmentThumbnails/c7cd571e882709890cf630c9d4280362/e86df713",
+      "typeIconURL": "https://i.imgur.com/xQjdCc8.png"
+    },
+    {
+      "link": "https://noahpinion.substack.com/p/techno-optimism-for-the-2020s",
+      "time": "12 min read",
+      "alt": "Techno",
+      "description": "Cheap taxis and fancy smoothies are out. Big Science is in.",
+      "title": "Techno-optimism for the new year",
+      "itemType": "Article",
+      "image": "https://dl.airtable.com/.attachmentThumbnails/6fc7903853d6cc1d34d45098f61b71df/619ac818",
+      "typeIconURL": "https://i.imgur.com/m99vnQi.png"
+    },
+    {
+      "link": "https://www.youtube.com/watch?v=aRKAAfqPVak&feature=youtu.be",
+      "time": "3 min",
+      "alt": "asmr",
+      "description": "If you love ASMR and playing cards",
+      "title": "The Sound of Cards",
+      "itemType": "Video",
+      "image": "https://dl.airtable.com/.attachmentThumbnails/a8a76fe7e4275f810444c2502e5dfc05/a3705ad5",
+      "typeIconURL": "https://i.imgur.com/xQjdCc8.png"
+    },
+    {
+      "link": "https://aesthesiamag.wordpress.com/2017/12/31/andy-goldsworthys-ice-and-snow-ephemeral-sculptures/?mc_cid=e9a07ef8f9&mc_eid=112b36a715",
+      "time": "3 min read",
+      "alt": "ice",
+      "description": "Ice sculptures as you have never seen before!",
+      "title": "Andy Goldsworthy’s Ice and Snow Ephemeral Sculptures",
+      "itemType": "Article",
+      "image": "https://dl.airtable.com/.attachmentThumbnails/390cdca50ebc6208e17423bc9f0973a9/bc06854e",
+      "typeIconURL": "https://i.imgur.com/m99vnQi.png"
+    },
+    {
+      "link": "https://psyche.co/ideas/on-the-consolatory-pleasure-of-jigsaws-when-the-world-is-in-bits",
+      "time": "11 min read",
+      "alt": "puzzles",
+      "description": "When life falls apart, puzzles help us put some pieces back",
+      "title": "On the consolatory pleasure of jigsaws when the world is in bits",
+      "itemType": "Article",
+      "image": "https://dl.airtable.com/.attachmentThumbnails/48efc2cc258528574ba3f113128ffb6c/44ae8d9b",
+      "typeIconURL": "https://i.imgur.com/m99vnQi.png"
+    }
+  ],
+  "animalCorner": [
+    {
+      "link": "https://twitter.com/AnimalsWorId/status/1349801498608222208",
+      "time": "0:06 min",
+      "alt": "bunny",
+      "description": "🐰",
+      "title": "Everything is chaos so here is a bunny eating blueberries",
+      "itemType": "Video",
+      "image": "https://dl.airtable.com/.attachmentThumbnails/0a54f726c0c31e732cef36c2525bf801/6b217d94",
+      "typeIconURL": "https://i.imgur.com/xQjdCc8.png"
+    },
+    {
+      "link": "https://www.tiktok.com/@jas1878/video/6894264908817370370?sender_device=pc&sender_web_id=6894673442639480325&is_from_webapp=v1&is_copy_url=0",
+      "time": "1 min",
+      "alt": "Watch",
+      "description": "#dog #dogsoftiktok #puppy",
+      "title": "I am so excited",
+      "itemType": "Video",
+      "image": "https://dl.airtable.com/.attachmentThumbnails/c5efedef84b99ff490d9006992573230/6f44ba43",
+      "typeIconURL": "https://i.imgur.com/xQjdCc8.png"
+    },
+    {
+      "link": "https://www.tiktok.com/@jaytvc/video/6917980141809454341?_d=secCgYIASAHKAESMgowwQx6qZUxLPqMRMKlaNInokYr6epHpH7vaS3AR3UutZbEmc7m05u0fmmUO7KZ%2FrYrGgA%3D&language=en&preview_pb=0&sec_user_id=MS4wLjABAAAA1MevirHSchNw0DRwn1-ee71lUb_DZ1-04vGntzyOZ8hz_OD2YQvOPtTXLcfzGU7Z&share_item_id=6917980141809454341&share_link_id=54FD2B58-29C8-4104-BA51-E2F963C80685&timestamp=1610924387&tt_from=more&u_code=dc7bkcm6946c89&user_id=6822610596925621253&utm_campaign=client_share&utm_medium=ios&utm_source=more&source=h5_m&is_copy_url=1&is_from_webapp=v1",
+      "time": "1 min",
+      "alt": "doggo",
+      "description": "🐶",
+      "title": "Who Let The Dogs Out",
+      "itemType": "Video",
+      "image": "https://dl.airtable.com/.attachmentThumbnails/a353634f5f97f060f5a8769ba179b4c2/f106b816",
+      "typeIconURL": "https://i.imgur.com/xQjdCc8.png"
+    }
+  ],
+  "recipe": {
+    "link": "https://recipe-search.typesense.org/?r%5Bquery%5D=bourguignon",
+    "time": "1 min read",
+    "alt": "Recipe",
+    "description": "Who is up for a tasty Boeuf Bourguignon? 🥘",
+    "title": "Instant Search 2 Million Recipes!",
+    "itemType": "Article",
+    "image": "https://dl.airtable.com/.attachmentThumbnails/82acd5028cf062325ec24b89defaeed9/8666b6fd",
+    "typeIconURL": "https://i.imgur.com/m99vnQi.png"
+  }
+}
