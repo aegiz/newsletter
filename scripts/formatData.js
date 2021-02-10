@@ -34,6 +34,8 @@ function associateIconToType(itemType) {
     typeIconURL = "https://i.imgur.com/LzEMkn8.png";
   } else if (itemType === "Audio") {
     typeIconURL = "https://i.imgur.com/WREdaIG.png";
+  } else if (itemType === "Other") {
+    typeIconURL = "https://i.imgur.com/bWJ0JZ1.png";
   } else {
     console.log("Error with icon itemType: ", itemType);
   }

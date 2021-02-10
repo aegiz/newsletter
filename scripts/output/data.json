@@ -1,110 +1,17 @@
 {
-  "intro": {
-    "content": "Hey {{ contact.FIRSTNAME }}, how are you doing?<br><br>This week, I have been collecting multiple articles and videos about art, sport and, last but not least, cute animals (be sure to checkout the marmot one!).<br><br>I hope you do enjoy this selection and have a wonderful weekend!"
-  },
-  "hero": {
-    "link": "https://www.youtube.com/watch?v=ze1tCqsTsYE&feature=youtu.be",
-    "time": "3 min",
-    "alt": "baloon",
-    "description": "COOLEST THING I'VE EVER SEEN ",
-    "title": "Life Size Balloon T-Rex Dinosaur",
-    "itemType": "Video",
-    "image": "https://dl.airtable.com/.attachmentThumbnails/5fea9ea6337c02a7dd01b56ec98b5ac0/c778375d",
-    "typeIconURL": "https://i.imgur.com/xQjdCc8.png",
-    "why": "<br>“6 time World Champion balloon artist Mark Verge makes cool balloons for a living”<br>Okay, wait, wait, wait, let’s pause for a minute and reprocess this sentence:<br>Primo, there is a World championship for balloons. Secondo this guy won 6 times (!). Tertio, he is living from it.<br>Truly incredible!"
-  },
+  "intro": { "content": "XXX" },
+  "hero": {},
   "randomArticles": [
     {
-      "link": "https://www.bbc.com/news/uk-scotland-55705764",
-      "time": "7 min read",
-      "alt": "Scotland",
-      "description": "A selection of BBC's readers pictures of Scotland sent in between 15 and 22 January.",
-      "title": "Scotland in pictures",
-      "itemType": "Article",
-      "image": "https://dl.airtable.com/.attachmentThumbnails/c30125792da39cb5581245fcf43d44b5/3dc3d287",
-      "typeIconURL": "https://i.imgur.com/m99vnQi.png"
-    },
-    {
-      "link": "https://www.youtube.com/watch?mc_cid=43ff62f8b8&mc_eid=112b36a715&v=4Ym2F-tHdkk&feature=youtu.be",
-      "time": "6:21 min",
-      "alt": "Skye",
-      "description": "Danny Macaskill testing the limits of mountain biking, riding down the infamous Dubh Slabs on the Isle of Skye",
-      "title": "Danny MacAskill - The Slabs",
-      "itemType": "Video",
-      "image": "https://dl.airtable.com/.attachmentThumbnails/6de0f2a750162d76b8c0b1944075f19b/66b677b7",
-      "typeIconURL": "https://i.imgur.com/xQjdCc8.png"
-    },
-    {
-      "link": "https://sketchfab.com/3d-models/sainte-chapelle-paris-cf5c87d2cb6b41c0a8fec2ace609ac80",
-      "time": "5 min read",
-      "alt": "Sainte",
-      "description": "This gothic chapel located in Paris was built between 1238 and 1248 CE.",
-      "title": "3D Scan of the Sainte-chapell",
+      "alt": "Free",
+      "link": "https://www.iconfinder.com/search/?q=media&price=free",
       "itemType": "Other",
-      "image": "https://dl.airtable.com/.attachmentThumbnails/c0ba90373f0a3d567434596dd7210e4d/559368f7",
-      "typeIconURL": "https://i.imgur.com/m99vnQi.png"
-    },
-    {
-      "link": "https://www.smithsonianmag.com/innovation/these-are-highest-resolution-photos-ever-taken-snowflakes-180976710/",
-      "time": "10 min read",
-      "alt": "snow",
-      "description": "Nathan Myhrvold has developed a camera that captures snowflakes at a microscopic level never seen before",
-      "title": "These Are the Highest Resolution Photos Ever Taken of Snowflake",
-      "itemType": "Article",
-      "image": "https://dl.airtable.com/.attachmentThumbnails/eae3bcecfeb18afebe9f209c0df5047c/672c4df4",
-      "typeIconURL": "https://i.imgur.com/m99vnQi.png"
-    },
-    {
-      "link": "https://www.youtube.com/watch?v=aizDj6gp0g0&feature=emb_title&ab_channel=ArchitectoftheCapitol",
-      "time": "1:30 min",
-      "alt": "door",
-      "description": "Have you ever wondered what these tiny doors at the Capitol are for?",
-      "title": "The Tiny Doors in the U.S. Capitol",
-      "itemType": "Video",
-      "image": "https://dl.airtable.com/.attachmentThumbnails/9c2f5b0bddef59aed436e6874251ff4d/2ef93411",
-      "typeIconURL": "https://i.imgur.com/xQjdCc8.png"
+      "title": "Free media icons - Iconfinder",
+      "description": "Download 25,525 free media icons. Available in PNG and SVG formats. Ready to be used in web design, mobile apps and presentations.",
+      "time": "1 min read",
+      "image": "https://dl.airtable.com/.attachmentThumbnails/000fd898ccea0c77614d692bd4413d71/3235d2ad",
+      "typeIconURL": "https://i.imgur.com/bWJ0JZ1.png"
     }
   ],
-  "animalCorner": [
-    {
-      "link": "https://www.youtube.com/watch?v=MX4oFxT8F-s",
-      "time": "2 min",
-      "alt": "marmots",
-      "description": "The now famous French marmots are doing sport… <a class='email-link' href='https://www.youtube.com/watch?v=82klALTYpNs' target='_blank'>Among other things</a>.",
-      "title": "\"Compilation marmottes\" on France 3",
-      "itemType": "Video",
-      "image": "https://dl.airtable.com/.attachmentThumbnails/e0079ae9def5c526fa780e842e487b90/c0d83be9",
-      "typeIconURL": "https://i.imgur.com/xQjdCc8.png"
-    },
-    {
-      "link": "https://www.youtube.com/watch?v=Jsj-hDW9bS8",
-      "time": "4:34 min",
-      "alt": "cats",
-      "description": "How did these solitary, fierce predators become our sofa sidekicks?",
-      "title": "The history of the world according to cats",
-      "itemType": "Video",
-      "image": "https://dl.airtable.com/.attachmentThumbnails/25737cc5b28242e8cb31073294d169cf/df858fee",
-      "typeIconURL": "https://i.imgur.com/xQjdCc8.png"
-    },
-    {
-      "link": "https://www.youtube.com/watch?list=WL%3Fautoplay%3D1&v=H16gPJFu2g4&feature=emb_title&ab_channel=TheDodo",
-      "time": "3:12 min",
-      "alt": "Parrot",
-      "description": "Parrot gets SO excited when his dad takes him to his favorite place",
-      "title": "Parrot Loves Going To Home Depot With His Dad",
-      "itemType": "Video",
-      "image": "https://dl.airtable.com/.attachmentThumbnails/6f0b403dd7ba9bbe60fb0e970dfa46c7/4fc7ce5f",
-      "typeIconURL": "https://i.imgur.com/xQjdCc8.png"
-    }
-  ],
-  "recipe": {
-    "alt": "Sushi",
-    "link": "https://www.bonappetit.com/story/sushi-bake",
-    "itemType": "Article",
-    "title": "Sushi Bake Is the Lockdown Trend I’ll Never Stop Making",
-    "description": "Sushi bake is good for dinner at home now, great for (eventual) potlucks in the future.",
-    "time": "9 min read",
-    "image": "https://dl.airtable.com/.attachmentThumbnails/4132ec300cfdcf116c09859a37740ef2/c2dc27e4",
-    "typeIconURL": "https://i.imgur.com/m99vnQi.png"
-  }
+  "animalCorner": []
 }
