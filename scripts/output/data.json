@@ -1,110 +1,100 @@
 {
   "intro": {
-    "content": "Dear friends and subscribers, I wanted to start this newsletter with two words:<br>“Thank you!”.<br>It’s indeed thanks to you and your referrals that we are now about to reach 100 subscribers. For the occasion, I rebranded the official <a class='email-link' href='https://www.instagram.com/wecanstillhavenicethings/' target='_blank'>Instagram account</a> as well as added a couple of infos on the main <a class='email-link' href='https://wecanstillhavenicethings.com/' target='_blank'>Landing page</a> (let me know what you think!).<br><br>Back to this newsletter now, this edition is full of little “Dutch” references (not intentionally, I promise). Windmills, Dutch justice court,  Dutch repair cafes, I leave you in good company this week."
+    "content": "In the last couple of days I have been playing a lot with Instagram and Buffer (to see how to automate future posts across different social media channels in case you wonder).<br>So, my apologies if you have seen pictures of Lilo our little Coton de Tulear appearing in your timeline, it was solely a test (and I promise it’s almost over 🙃).<br><br>Otherwise, this week we applauded:<li>The successful rover landing on Mars</li><li>The power of the hug</li><li>A super cool DJ dog</li></ul>"
   },
   "hero": {
-    "alt": "Math",
-    "link": "https://www.youtube.com/watch?v=M64HUIJFTZM&feature=youtu.be",
+    "alt": "NASA",
+    "link": "https://twitter.com/NASA/status/1362507074807205909",
     "itemType": "Video",
-    "title": "The famous windmill problem from the 2011 International Mathematical Olympiad",
-    "description": "An unexpectedly hard question",
-    "time": "16 min",
-    "image": "https://dl.airtable.com/.attachmentThumbnails/a06b5581c31c6b2ffd32a02da2a86b30/24934783",
+    "title": "\"Touchdown confirmed.\"",
+    "description": "Some positive news from the Perseverance Mars Rover",
+    "time": "0:26 min",
+    "image": "https://dl.airtable.com/.attachmentThumbnails/235ae61f5021c88a49cbcf2103d90714/558eb6c1",
     "typeIconURL": "https://i.imgur.com/xQjdCc8.png",
-    "why": "Let's just take a moment to appreciate how much effort was put into creating such a well animated video. No matter if you like Maths or not, this video is visually and narratively outstanding.<br>Furthermore, what made me select this video as the <span style='font-style:italic'>highlight of the week</span> is the social takeaways: in Maths (as well as in other disciplines) it is extremely hard to accurately evaluate the level of difficulty of a “simple” problem."
+    "why": "There are very few things that make me as happy as a successful space mission. This landing on a remote planet is the result of years of collaboration, hard work, and patience. So, let’s celebrate!"
   },
   "randomArticles": [
     {
-      "alt": "repair",
-      "link": "https://www.bbc.com/future/article/20210128-right-to-repair-how-the-french-are-fighting-avoidable-waste",
+      "alt": "PositiveYear",
+      "link": "https://www.vice.com/en/article/7k9qjg/a-year-of-human-rights-wins-worth-celebrating?utm_source=Positive+News&utm_campaign=8491441361-EMAIL_CAMPAIGN_2021_02_12_10_27&utm_medium=email&utm_term=0_3a293415a0-8491441361-341517036",
       "itemType": "Article",
-      "title": "The country rejecting throwaway culture",
-      "description": "The combination of enthusiastic amateurs, repair cafes and new laws could help tackle the world's growing mountains of broken electronics.",
-      "time": "10 min read",
-      "image": "https://dl.airtable.com/.attachmentThumbnails/f94f0c5f870905b718deb8af648a63a1/6f4ae393",
+      "title": "A Year of Human Rights Wins Worth Celebrating",
+      "description": "The last year might have been a complete disaster, but there was some incredibly good news in amongst the misery. ",
+      "time": "12 min read",
+      "image": "https://dl.airtable.com/.attachmentThumbnails/158461b1f78685ee804c86af42a3e5b9/dec4103a",
       "typeIconURL": "https://i.imgur.com/m99vnQi.png"
     },
     {
-      "alt": "skate",
-      "link": "https://www.lexpress.fr/actualites/1/actualite/le-monde-du-skate-celebre-sa-diversite-dans-le-sillage-de-black-lives-matter_2144298.html",
+      "alt": "Hugging",
+      "link": "https://www.theguardian.com/lifeandstyle/2021/feb/06/hugging-is-like-medicine-it-gives-us-hope-friends-and-lovers-on-the-joy-of-touch?utm_term=632a1427f39a516f3387eb56c4b67635&utm_campaign=TheUpside&utm_source=esp&utm_medium=Email&CMP=upside_email",
       "itemType": "Article",
-      "title": "(FR) Le monde du skate célèbre sa diversité",
-      "description": "#BLM",
+      "title": "‘Hugging is like medicine, it gives us hope’",
+      "description": "Friends and lovers on the joy of touch",
+      "time": "15 min read",
+      "image": "https://dl.airtable.com/.attachmentThumbnails/e7d1d999a753f9e76f07a7b832a1d1e3/3fd76655",
+      "typeIconURL": "https://i.imgur.com/m99vnQi.png"
+    },
+    {
+      "alt": "walk",
+      "link": "https://hbr.org/2021/02/dont-underestimate-the-power-of-a-walk?utm_term=632a1427f39a516f3387eb56c4b67635&utm_campaign=TheUpside&utm_source=esp&utm_medium=Email&CMP=upside_email",
+      "itemType": "Article",
+      "title": "Don’t underestimate the Power of a Walk",
+      "description": "Breaking up your day by going outside can boost your mood, brainpower, and creativity.",
       "time": "7 min read",
-      "image": "https://dl.airtable.com/.attachmentThumbnails/71d7b5914c695893f3736ae1bb512349/131590d5",
+      "image": "https://dl.airtable.com/.attachmentThumbnails/fe92c606c28b11331b58db862e1b9b87/ada329f7",
       "typeIconURL": "https://i.imgur.com/m99vnQi.png"
     },
     {
-      "alt": "Netflix",
-      "link": "https://twitter.com/Netflix_and_ill/status/1359630988154929162",
+      "alt": "DiamondBeach",
+      "link": "https://www.youtube.com/watch?v=OT11kbPWNzc&feature=youtu.be",
       "itemType": "Video",
-      "title": "Here is your smile for today",
-      "description": "Everything's gonna be alright (thanks Ruud for sharing!)",
-      "time": "1 min",
-      "image": "https://dl.airtable.com/.attachmentThumbnails/dcd531b411c1ab82ffa7ea6952e66dfd/6ab0596d",
+      "title": "Diamond beach Iceland 4K",
+      "description": "The Diamond Beach is a strip of black sand belonging to the greater Breiðamerkursandur glacial",
+      "time": "2:40 min",
+      "image": "https://dl.airtable.com/.attachmentThumbnails/23f986f88212023bccec9ec69796db86/a9645eb3",
       "typeIconURL": "https://i.imgur.com/xQjdCc8.png"
     },
     {
-      "alt": "Environmentalists",
-      "link": "https://www.reuters.com/article/us-shell-nigeria-court-idUSKBN29Y1D2",
-      "itemType": "Article",
-      "title": "Environmentalists, farmers win Dutch court case over Shell Nigeria spills",
-      "description": "A Dutch appeals court held  Shell's subsidiary responsible for multiple oil leaks in the Niger Delta and ordered it to pay unspecified damages to farmers.",
-      "time": "9 min read",
-      "image": "https://dl.airtable.com/.attachmentThumbnails/ebbdac2997c772013ba9c5f958902dd3/1cb09912",
-      "typeIconURL": "https://i.imgur.com/m99vnQi.png"
-    },
-    {
-      "alt": "Battery",
-      "link": "https://batterybuddy.app/",
+      "alt": "mansplaining",
+      "link": "https://twitter.com/jmccarty_geo/status/1361332337678639107",
       "itemType": "Other",
-      "title": "Battery Buddy for Mac OSX",
-      "description": "It’s like the default battery indicator in your menu bar, but cute.",
+      "title": "\"What’s the most obvious thing you’ve ever been mansplained about?\"",
+      "description": "Everytime you read it it gets better",
       "time": "1 min read",
-      "image": "https://dl.airtable.com/.attachmentThumbnails/d20a68932bb7232dda386acccb8ca522/f51d0748",
+      "image": "https://dl.airtable.com/.attachmentThumbnails/23cf64aa40ced05b20cda97a2b534c52/6fae760b",
       "typeIconURL": "https://i.imgur.com/bWJ0JZ1.png"
     }
   ],
   "animalCorner": [
     {
-      "alt": "jean",
-      "link": "https://twitter.com/Rizotochaud/status/1358536995740545045",
+      "alt": "Humor",
+      "link": "https://twitter.com/humorandanimals/status/1360600755510665226?mc_cid=cd30d3af2c&mc_eid=112b36a715",
       "itemType": "Video",
-      "title": "Cow back-massage",
-      "description": "A special treatment for Madam",
-      "time": "0:14 min",
-      "image": "https://dl.airtable.com/.attachmentThumbnails/7bed91d2c8d1dbe3da8cb52172838360/6145e927",
-      "typeIconURL": "https://i.imgur.com/xQjdCc8.png"
-    },
-    {
-      "alt": "Paranormal",
-      "link": "https://www.youtube.com/watch?v=PEqJjzN4J7s&feature=youtu.be",
-      "itemType": "Video",
-      "title": "Purranormal Activity",
-      "description": "A parody of Paranormal Activity starring my cat OwlKitty",
+      "title": "This is what true happiness looks like",
+      "description": "Koji the shiba is happy",
       "time": "1 min",
-      "image": "https://dl.airtable.com/.attachmentThumbnails/668e89133fa189230e7c54cb0fc5fb46/dd2fed77",
+      "image": "https://dl.airtable.com/.attachmentThumbnails/0b267a18d1f138a4e91d5e3dc75d6c25/fbec7572",
       "typeIconURL": "https://i.imgur.com/xQjdCc8.png"
     },
     {
-      "alt": "Diane",
-      "link": "https://twitter.com/ddoniolvalcroze/status/1359534775447375873",
-      "itemType": "Other",
-      "title": "Snow imprints of Owls while hunting",
-      "description": "Wildlife in action!",
-      "time": "1 min read",
-      "image": "https://dl.airtable.com/.attachmentThumbnails/6e77e1648e6c49a333183257ca0cefc4/e215594f",
-      "typeIconURL": "https://i.imgur.com/bWJ0JZ1.png"
+      "alt": "murmuration",
+      "link": "https://www.wired.com/story/stunning-images-of-starlings-in-flight/?mc_cid=35b61df2a9&mc_eid=112b36a715",
+      "itemType": "Article",
+      "title": "Stunning Images of Starlings in Flight",
+      "description": "For this Danish photographer, documenting the birds’ migration through the autumn dusk takes patience.",
+      "time": "6 min read",
+      "image": "https://dl.airtable.com/.attachmentThumbnails/016a738a40a113df270c5074cc12860e/6943b13e",
+      "typeIconURL": "https://i.imgur.com/m99vnQi.png"
+    },
+    {
+      "alt": "tutorial",
+      "link": "https://www.tiktok.com/@therubypiano/video/6906841907368971526?sender_device=pc&sender_web_id=6917171557169153542&is_from_webapp=v2&is_copy_url=0",
+      "itemType": "Video",
+      "title": "Need a DJ or Piano Teacher? My Dog is Available",
+      "description": "#PianoTutorial #DJdog #learnontiktok",
+      "time": "0:40 min",
+      "image": "https://dl.airtable.com/.attachmentThumbnails/da7b5006858cebc4bc55a19054a677f6/b936c6f9",
+      "typeIconURL": "https://i.imgur.com/xQjdCc8.png"
     }
-  ],
-  "recipe": {
-    "alt": "scallop",
-    "link": "https://twitter.com/prophetehuitres/status/1358753415099256833",
-    "itemType": "Other",
-    "title": "Great scallop and leaks with Cayenne pepper and meringue 😋",
-    "description": "I mostly follow @prophetehuitres for his tweets about Cinema but I am tempted to say he is equally talented as making yummy food!",
-    "time": "1 min read",
-    "image": "https://dl.airtable.com/.attachmentThumbnails/d9401c4e8540a949174c4365423f83d8/051282c1",
-    "typeIconURL": "https://i.imgur.com/bWJ0JZ1.png"
-  }
+  ]
 }

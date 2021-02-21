@@ -90,7 +90,7 @@ base("Newsletter content")
       fs.writeFileSync("./output/data.json", JSON.stringify(data));
       console.log("=============================================");
       console.log(
-        "All good with retrieving the data from Airtable, now fill the data.json intro bro!"
+        "All good with retrieving the data from Airtable, now fill the xxx in data.json!"
       );
       console.log("=============================================");
     }

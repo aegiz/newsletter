@@ -15,10 +15,15 @@ fs.writeFileSync("./output/index.html", h);
 
 console.log("=============================================");
 console.log("Well done, HTML generate!");
-console.log("Now, go to Airtable and do some cleaning:");
+console.log("Now,");
 console.log(
-  "=> https://airtable.com/tbldn3ooyAJ7Twn9v/viwaTBZ586CuhmrzV?blocks=hide"
+  "1. Upload the HTML content to sendinblue and create the preview with the hastags"
 );
-console.log("Then, upload the HTML content to sendinblue:");
 console.log("=> https://my.sendinblue.com/dashboard");
+console.log("2. Update the Notion with Links and Keywords");
+console.log("=> https://my.sendinblue.com/dashboard");
+console.log("3. Plan post on social media with Buffer");
+console.log(
+  "=> https://publish.buffer.com/profile/602ff17e6ab0810efb6e9ce6/tab/queue"
+);
 console.log("=============================================");
