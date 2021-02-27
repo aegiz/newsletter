@@ -1,99 +1,99 @@
 {
   "intro": {
-    "content": "In the last couple of days I have been playing a lot with Instagram and Buffer (to see how to automate future posts across different social media channels in case you wonder).<br>So, my apologies if you have seen pictures of Lilo our little Coton de Tulear appearing in your timeline, it was solely a test (and I promise it’s almost over 🙃).<br><br>Otherwise, this week we applauded:<li>The successful rover landing on Mars</li><li>The power of the hug</li><li>A super cool DJ dog</li></ul>"
+    "content": "Howdy comrades!<br><br>To start the weekend on the right foot here a nice newsletter filled with joyful content.<br>This week I worked quite a lot on automating the process of relaying editions across social medias (yeah it's done!). So, from time to time you'll now see posts showing up automatically on Twitter, Facebook and Instagram (yeah X2).<br><br>I wish you a wonderful weekend!"
   },
   "hero": {
-    "alt": "NASA",
-    "link": "https://twitter.com/NASA/status/1362507074807205909",
-    "itemType": "Video",
-    "title": "\"Touchdown confirmed.\"",
-    "description": "Some positive news from the Perseverance Mars Rover",
-    "time": "0:26 min",
-    "image": "https://dl.airtable.com/.attachmentThumbnails/235ae61f5021c88a49cbcf2103d90714/558eb6c1",
-    "typeIconURL": "https://i.imgur.com/xQjdCc8.png",
-    "why": "There are very few things that make me as happy as a successful space mission. This landing on a remote planet is the result of years of collaboration, hard work, and patience. So, let’s celebrate!"
+    "alt": "Cheese",
+    "link": "https://www.wired.com/story/cheese-actually-isnt-bad-for-you/?mc_cid=4eaa79778c&mc_eid=112b36a715",
+    "itemType": "Article",
+    "title": "Cheese actually isn’t bad for you!",
+    "description": "Don’t feel sheepish reaching for that Gruyère. Cheese doesn’t deserve its unhealthy reputation.",
+    "time": "12 min read",
+    "image": "https://dl.airtable.com/.attachmentThumbnails/6b0c042e36a941fce3c6a9d37c31f3fa/4e040f00",
+    "typeIconURL": "https://i.imgur.com/m99vnQi.png",
+    "why": "I won't lie, when I saw this article coming up in my feed, I immediately clicked on it.<br>I am personally a huge cheese fan and since a very young age I have always loved it (my parents even put it it on my yogurts - the only way I would eat it)!<br>Well, reading this article it looks like I have now the perfect excuse to eat even more!"
   },
   "randomArticles": [
     {
-      "alt": "PositiveYear",
-      "link": "https://www.vice.com/en/article/7k9qjg/a-year-of-human-rights-wins-worth-celebrating?utm_source=Positive+News&utm_campaign=8491441361-EMAIL_CAMPAIGN_2021_02_12_10_27&utm_medium=email&utm_term=0_3a293415a0-8491441361-341517036",
+      "alt": "Gamers",
+      "link": "https://www.wired.com/story/accessibility-video-games-ablegamers/?mbid=social_twitter&utm_brand=wired&utm_campaign=falcon&utm_medium=social&utm_social-type=owned&utm_source=twitter",
       "itemType": "Article",
-      "title": "A Year of Human Rights Wins Worth Celebrating",
-      "description": "The last year might have been a complete disaster, but there was some incredibly good news in amongst the misery. ",
-      "time": "12 min read",
-      "image": "https://dl.airtable.com/.attachmentThumbnails/158461b1f78685ee804c86af42a3e5b9/dec4103a",
+      "title": "Gamers Forge Their Own Paths When It Comes to Accessibility",
+      "description": "Players with disabilities haven't waited around for console manufacturers. Here's how far we've come—and how far we have to go.",
+      "time": "9 min read",
+      "image": "https://dl.airtable.com/.attachmentThumbnails/a0c4d8b5d7f9917cee0aec4e42d680fe/794ea550",
       "typeIconURL": "https://i.imgur.com/m99vnQi.png"
     },
     {
-      "alt": "Hugging",
-      "link": "https://www.theguardian.com/lifeandstyle/2021/feb/06/hugging-is-like-medicine-it-gives-us-hope-friends-and-lovers-on-the-joy-of-touch?utm_term=632a1427f39a516f3387eb56c4b67635&utm_campaign=TheUpside&utm_source=esp&utm_medium=Email&CMP=upside_email",
+      "alt": "NASA",
+      "link": "https://www.nytimes.com/2021/02/24/science/nasa-mars-parachute-code.html",
       "itemType": "Article",
-      "title": "‘Hugging is like medicine, it gives us hope’",
-      "description": "Friends and lovers on the joy of touch",
-      "time": "15 min read",
-      "image": "https://dl.airtable.com/.attachmentThumbnails/e7d1d999a753f9e76f07a7b832a1d1e3/3fd76655",
+      "title": "NASA's mars parachute had a hidden code: “Dare mighty things!”",
+      "description": "Meet the <a class='email-link' href='https://twitter.com/FrenchTech_paf/status/1363965938421411841' target='_blank'>French student</a> who cracked it.",
+      "time": "10 min read",
+      "image": "https://dl.airtable.com/.attachmentThumbnails/190f70834849fcfc17348a19c87bbab3/ad452a16",
       "typeIconURL": "https://i.imgur.com/m99vnQi.png"
     },
     {
-      "alt": "walk",
-      "link": "https://hbr.org/2021/02/dont-underestimate-the-power-of-a-walk?utm_term=632a1427f39a516f3387eb56c4b67635&utm_campaign=TheUpside&utm_source=esp&utm_medium=Email&CMP=upside_email",
+      "alt": "Elephant",
+      "link": "https://futurism.com/meet-the-thai-surgeon-that-made-the-worlds-first-elephant-prosthetic",
+      "itemType": "Article & Video",
+      "title": "The elephant who received a prosthetic leg after a landmine explosion",
+      "description": "Meet Mosha, the Asian elephant, received the first prosthetic limb made especially for her species. ",
+      "time": "3 min read",
+      "image": "https://dl.airtable.com/.attachmentThumbnails/ef761cc9d4ef027d6e5a42fbf4fe9070/c5ec9992",
+      "typeIconURL": "https://i.imgur.com/gLT7BO4.png"
+    },
+    {
+      "alt": "Chess",
+      "link": "https://www.themarshallproject.org/2021/02/11/when-the-prison-banned-board-games-we-played-chess-in-our-minds",
       "itemType": "Article",
-      "title": "Don’t underestimate the Power of a Walk",
-      "description": "Breaking up your day by going outside can boost your mood, brainpower, and creativity.",
-      "time": "7 min read",
-      "image": "https://dl.airtable.com/.attachmentThumbnails/fe92c606c28b11331b58db862e1b9b87/ada329f7",
+      "title": "When The Prison Banned Board Games, We Played Chess In Our Minds",
+      "description": "“At the heart of our mental chess game lies a profound lesson: The difference between being content or distraught is a matter of perspective.”",
+      "time": "11 min read",
+      "image": "https://dl.airtable.com/.attachmentThumbnails/4978d152b796dd74303300606c48fa46/99e8fbfa",
       "typeIconURL": "https://i.imgur.com/m99vnQi.png"
     },
     {
-      "alt": "DiamondBeach",
-      "link": "https://www.youtube.com/watch?v=OT11kbPWNzc&feature=youtu.be",
+      "alt": "centenarians",
+      "link": "https://www.youtube.com/watch?v=9AThycGCakk&feature=emb_title&ab_channel=LifeHunters",
       "itemType": "Video",
-      "title": "Diamond beach Iceland 4K",
-      "description": "The Diamond Beach is a strip of black sand belonging to the greater Breiðamerkursandur glacial",
-      "time": "2:40 min",
-      "image": "https://dl.airtable.com/.attachmentThumbnails/23f986f88212023bccec9ec69796db86/a9645eb3",
+      "title": "Life Lessons From 100-Year-Olds",
+      "description": "We asked three unique and lovely centenarians what their most valuable life lessons were, and also their regrets.",
+      "time": "13 min",
+      "image": "https://dl.airtable.com/.attachmentThumbnails/ce3b59c950a6feac7b50dc47809cf3e4/c4982e0a",
       "typeIconURL": "https://i.imgur.com/xQjdCc8.png"
-    },
-    {
-      "alt": "mansplaining",
-      "link": "https://twitter.com/jmccarty_geo/status/1361332337678639107",
-      "itemType": "Other",
-      "title": "\"What’s the most obvious thing you’ve ever been mansplained about?\"",
-      "description": "Everytime you read it it gets better",
-      "time": "1 min read",
-      "image": "https://dl.airtable.com/.attachmentThumbnails/23cf64aa40ced05b20cda97a2b534c52/6fae760b",
-      "typeIconURL": "https://i.imgur.com/bWJ0JZ1.png"
     }
   ],
   "animalCorner": [
     {
-      "alt": "Humor",
-      "link": "https://twitter.com/humorandanimals/status/1360600755510665226?mc_cid=cd30d3af2c&mc_eid=112b36a715",
+      "alt": "dogPhoto",
+      "link": "https://www.instagram.com/vincentjmusi/?mc_cid=4b04f7e31f&mc_eid=112b36a715",
+      "itemType": "Other",
+      "title": "This photograph takes outstanding pictures of your doggos",
+      "description": "See Instagram photos and videos from @vincentjmusi",
+      "time": "2 min read",
+      "image": "https://dl.airtable.com/.attachmentThumbnails/673dfbe45d2df1014755c3108fd4694f/e07e7145",
+      "typeIconURL": "https://i.imgur.com/bWJ0JZ1.png"
+    },
+    {
+      "alt": "hug",
+      "link": "https://www.reddit.com/r/aww/comments/lp84fl/please_hug_me/?utm_source=share&utm_medium=mweb",
       "itemType": "Video",
-      "title": "This is what true happiness looks like",
-      "description": "Koji the shiba is happy",
+      "title": "Please hug me",
+      "description": "Everything you need now from your cat!",
       "time": "1 min",
-      "image": "https://dl.airtable.com/.attachmentThumbnails/0b267a18d1f138a4e91d5e3dc75d6c25/fbec7572",
+      "image": "https://dl.airtable.com/.attachmentThumbnails/0f4bd817ba88cbf5dc370b26193a8760/0345acc2",
       "typeIconURL": "https://i.imgur.com/xQjdCc8.png"
     },
     {
-      "alt": "murmuration",
-      "link": "https://www.wired.com/story/stunning-images-of-starlings-in-flight/?mc_cid=35b61df2a9&mc_eid=112b36a715",
-      "itemType": "Article",
-      "title": "Stunning Images of Starlings in Flight",
-      "description": "For this Danish photographer, documenting the birds’ migration through the autumn dusk takes patience.",
-      "time": "6 min read",
-      "image": "https://dl.airtable.com/.attachmentThumbnails/016a738a40a113df270c5074cc12860e/6943b13e",
-      "typeIconURL": "https://i.imgur.com/m99vnQi.png"
-    },
-    {
-      "alt": "tutorial",
-      "link": "https://www.tiktok.com/@therubypiano/video/6906841907368971526?sender_device=pc&sender_web_id=6917171557169153542&is_from_webapp=v2&is_copy_url=0",
+      "alt": "snow",
+      "link": "https://twitter.com/DickKingSmith/status/1363890711922434049",
       "itemType": "Video",
-      "title": "Need a DJ or Piano Teacher? My Dog is Available",
-      "description": "#PianoTutorial #DJdog #learnontiktok",
-      "time": "0:40 min",
-      "image": "https://dl.airtable.com/.attachmentThumbnails/da7b5006858cebc4bc55a19054a677f6/b936c6f9",
+      "title": "Snowetry in motion",
+      "description": "Felines at their best!",
+      "time": "1 min",
+      "image": "https://dl.airtable.com/.attachmentThumbnails/9b4c79dc5045debdcd4d3bb87c7e774b/a1abff62",
       "typeIconURL": "https://i.imgur.com/xQjdCc8.png"
     }
   ]
