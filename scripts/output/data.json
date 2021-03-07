@@ -1,98 +1,97 @@
 {
-  "intro": {
-    "content": "Howdy comrades!<br><br>To start the weekend on the right foot here a nice newsletter filled with joyful content.<br>This week I worked quite a lot on automating the process of relaying editions across social medias (yeah it's done!). So, from time to time you'll now see posts showing up automatically on Twitter, Facebook and Instagram (yeah X2).<br><br>I wish you a wonderful weekend!"
-  },
+  "number": "000",
+  "intro": { "content": "I got some news!" },
   "hero": {
-    "alt": "Cheese",
     "link": "https://www.wired.com/story/cheese-actually-isnt-bad-for-you/?mc_cid=4eaa79778c&mc_eid=112b36a715",
-    "itemType": "Article",
-    "title": "Cheese actually isn’t bad for you!",
-    "description": "Don’t feel sheepish reaching for that Gruyère. Cheese doesn’t deserve its unhealthy reputation.",
     "time": "12 min read",
+    "alt": "Cheese",
+    "description": "Don’t feel sheepish reaching for that Gruyère. Cheese doesn’t deserve its unhealthy reputation.",
+    "title": "Cheese actually isn’t bad for you!",
+    "itemType": "Article",
     "image": "https://dl.airtable.com/.attachmentThumbnails/6b0c042e36a941fce3c6a9d37c31f3fa/4e040f00",
     "typeIconURL": "https://i.imgur.com/m99vnQi.png",
-    "why": "I won't lie, when I saw this article coming up in my feed, I immediately clicked on it.<br>I am personally a huge cheese fan and since a very young age I have always loved it (my parents even put it it on my yogurts - the only way I would eat it)!<br>Well, reading this article it looks like I have now the perfect excuse to eat even more!"
+    "why": "XXX"
   },
   "randomArticles": [
     {
-      "alt": "Gamers",
       "link": "https://www.wired.com/story/accessibility-video-games-ablegamers/?mbid=social_twitter&utm_brand=wired&utm_campaign=falcon&utm_medium=social&utm_social-type=owned&utm_source=twitter",
-      "itemType": "Article",
-      "title": "Gamers Forge Their Own Paths When It Comes to Accessibility",
-      "description": "Players with disabilities haven't waited around for console manufacturers. Here's how far we've come—and how far we have to go.",
       "time": "9 min read",
+      "alt": "Gamers",
+      "description": "Players with disabilities and chronic illnesses haven't waited around for console manufacturers to look their way. Here's how far we've come—and how far we have to go.",
+      "title": "Gamers Forge Their Own Paths When It Comes to Accessibility",
+      "itemType": "Article",
       "image": "https://dl.airtable.com/.attachmentThumbnails/a0c4d8b5d7f9917cee0aec4e42d680fe/794ea550",
       "typeIconURL": "https://i.imgur.com/m99vnQi.png"
     },
     {
-      "alt": "NASA",
       "link": "https://www.nytimes.com/2021/02/24/science/nasa-mars-parachute-code.html",
-      "itemType": "Article",
-      "title": "NASA's mars parachute had a hidden code: “Dare mighty things!”",
-      "description": "Meet the <a class='email-link' href='https://twitter.com/FrenchTech_paf/status/1363965938421411841' target='_blank'>French student</a> who cracked it.",
       "time": "10 min read",
+      "alt": "NASA",
+      "description": "Engineers hinted they had hidden a code in the parachute that landed the Perseverance rover. Within hours, puzzle enthusiasts cracked it.",
+      "title": "NASA's Mars Parachute Had a Hidden Code. Meet the French Student Who Cracked It.",
+      "itemType": "Article",
       "image": "https://dl.airtable.com/.attachmentThumbnails/190f70834849fcfc17348a19c87bbab3/ad452a16",
       "typeIconURL": "https://i.imgur.com/m99vnQi.png"
     },
     {
-      "alt": "Elephant",
       "link": "https://futurism.com/meet-the-thai-surgeon-that-made-the-worlds-first-elephant-prosthetic",
-      "itemType": "Article & Video",
-      "title": "The elephant who received a prosthetic leg after a landmine explosion",
-      "description": "Meet Mosha, the Asian elephant, received the first prosthetic limb made especially for her species. ",
       "time": "3 min read",
+      "alt": "Elephant",
+      "description": "Mosha, the Asian elephant, received the first prosthetic limb made especially for her species. ",
+      "title": "Meet Mosha, the Elephant who Received a Prosthetic Leg after a Landmine Explosion",
+      "itemType": "Article & Video",
       "image": "https://dl.airtable.com/.attachmentThumbnails/ef761cc9d4ef027d6e5a42fbf4fe9070/c5ec9992",
       "typeIconURL": "https://i.imgur.com/gLT7BO4.png"
     },
     {
-      "alt": "Chess",
       "link": "https://www.themarshallproject.org/2021/02/11/when-the-prison-banned-board-games-we-played-chess-in-our-minds",
-      "itemType": "Article",
-      "title": "When The Prison Banned Board Games, We Played Chess In Our Minds",
-      "description": "“At the heart of our mental chess game lies a profound lesson: The difference between being content or distraught is a matter of perspective.”",
       "time": "11 min read",
+      "alt": "Chess",
+      "description": "“At the heart of our mental chess game lies a profound lesson: The difference between being content or distraught is a matter of perspective.”",
+      "title": "When The Prison Banned Board Games, We Played Chess In Our Minds",
+      "itemType": "Article",
       "image": "https://dl.airtable.com/.attachmentThumbnails/4978d152b796dd74303300606c48fa46/99e8fbfa",
       "typeIconURL": "https://i.imgur.com/m99vnQi.png"
     },
     {
-      "alt": "centenarians",
       "link": "https://www.youtube.com/watch?v=9AThycGCakk&feature=emb_title&ab_channel=LifeHunters",
-      "itemType": "Video",
-      "title": "Life Lessons From 100-Year-Olds",
+      "time": "2 min",
+      "alt": "centenarians",
       "description": "We asked three unique and lovely centenarians what their most valuable life lessons were, and also their regrets.",
-      "time": "13 min",
+      "title": "Life Lessons From 100-Year-Olds",
+      "itemType": "Video",
       "image": "https://dl.airtable.com/.attachmentThumbnails/ce3b59c950a6feac7b50dc47809cf3e4/c4982e0a",
       "typeIconURL": "https://i.imgur.com/xQjdCc8.png"
     }
   ],
   "animalCorner": [
     {
-      "alt": "dogPhoto",
       "link": "https://www.instagram.com/vincentjmusi/?mc_cid=4b04f7e31f&mc_eid=112b36a715",
-      "itemType": "Other",
-      "title": "This photograph takes outstanding pictures of your doggos",
-      "description": "See Instagram photos and videos from @vincentjmusi",
       "time": "2 min read",
+      "alt": "dogPhoto",
+      "description": "See Instagram photos and videos from @vincentjmusi",
+      "title": "This photograph takes outstanding pictures of your doggo",
+      "itemType": "Other",
       "image": "https://dl.airtable.com/.attachmentThumbnails/673dfbe45d2df1014755c3108fd4694f/e07e7145",
       "typeIconURL": "https://i.imgur.com/bWJ0JZ1.png"
     },
     {
-      "alt": "hug",
       "link": "https://www.reddit.com/r/aww/comments/lp84fl/please_hug_me/?utm_source=share&utm_medium=mweb",
-      "itemType": "Video",
-      "title": "Please hug me",
-      "description": "Everything you need now from your cat!",
       "time": "1 min",
+      "alt": "hug",
+      "description": "Everything you need now from your cat!",
+      "title": "Please hug me",
+      "itemType": "Video",
       "image": "https://dl.airtable.com/.attachmentThumbnails/0f4bd817ba88cbf5dc370b26193a8760/0345acc2",
       "typeIconURL": "https://i.imgur.com/xQjdCc8.png"
     },
     {
-      "alt": "snow",
       "link": "https://twitter.com/DickKingSmith/status/1363890711922434049",
-      "itemType": "Video",
-      "title": "Snowetry in motion",
-      "description": "Felines at their best!",
       "time": "1 min",
+      "alt": "snow",
+      "description": "Felines at their best!",
+      "title": "Snowetry in motion",
+      "itemType": "Video",
       "image": "https://dl.airtable.com/.attachmentThumbnails/9b4c79dc5045debdcd4d3bb87c7e774b/a1abff62",
       "typeIconURL": "https://i.imgur.com/xQjdCc8.png"
     }

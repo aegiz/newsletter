@@ -8,8 +8,9 @@ const fs = require("fs");
 const Airtable = require("airtable");
 
 let data = {
+  number: "000",
   intro: {
-    content: "XXX",
+    content: "xxx",
   },
   hero: {},
   randomArticles: [],
