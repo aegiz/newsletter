@@ -1,99 +1,111 @@
 {
-  "number": "000",
-  "intro": { "content": "I got some news!" },
+  "number": "13",
+  "intro": {
+    "content": "Hi {{ contact.FIRSTNAME }}, how is everything going?<br><br>On my side, things have been running quite smoothly: we are now a couple of weeks away from the baby delivery (yes I am going to be a <a class='email-link' href='https://www.youtube.com/watch?v=qkT3tS22TwE' target='_blank'>first-time dad</a>!) and me and my partner are finalizing the last couple of details.<br>Otherwise, regarding this newsletter I shot today a full walkthrough of how I create it every week. So, if you are interested in seeing how things are automated behind the scene <a class='email-link' href='https://youtu.be/C_rV2boYOi0' target='_blank'>this one</a> is for you!<br><br>Have a great week!"
+  },
   "hero": {
-    "link": "https://www.wired.com/story/cheese-actually-isnt-bad-for-you/?mc_cid=4eaa79778c&mc_eid=112b36a715",
-    "time": "12 min read",
-    "alt": "Cheese",
-    "description": "Don’t feel sheepish reaching for that Gruyère. Cheese doesn’t deserve its unhealthy reputation.",
-    "title": "Cheese actually isn’t bad for you!",
+    "alt": "MiniatureRoom",
+    "link": "https://www.reddit.com/r/nextfuckinglevel/comments/lt7b9y/miniature_room_behing_electrical_outlet/?utm_source=share&utm_medium=mweb",
     "itemType": "Article",
-    "image": "https://dl.airtable.com/.attachmentThumbnails/6b0c042e36a941fce3c6a9d37c31f3fa/4e040f00",
+    "title": "Look at this cute miniature room",
+    "description": "So manylittle details (the computer screen displaying super mario world choco island <3!).",
+    "time": "0:30 min read",
+    "image": "https://dl.airtable.com/.attachmentThumbnails/99cc7bc269e16b50992b9b2c5fdf688d/2f81f013",
     "typeIconURL": "https://i.imgur.com/m99vnQi.png",
-    "why": "XXX"
+    "why": "When I saw this video it immediately reminded me of these hidden <a class='email-link' href='https://hifructose.com/2016/04/18/jan-vormann-patches-up-old-buildings-with-lego-bricks/' target='_blank'>streetart blocks</a> and the LEGO <a class='email-link' href='https://twitter.com/byscottmiller/status/1355608872556376064' target='_blank'>tiny houses</a> people created on Twitter.<br>I found the intersection between the two simply magical ✨"
   },
   "randomArticles": [
     {
-      "link": "https://www.wired.com/story/accessibility-video-games-ablegamers/?mbid=social_twitter&utm_brand=wired&utm_campaign=falcon&utm_medium=social&utm_social-type=owned&utm_source=twitter",
-      "time": "9 min read",
-      "alt": "Gamers",
-      "description": "Players with disabilities and chronic illnesses haven't waited around for console manufacturers to look their way. Here's how far we've come—and how far we have to go.",
-      "title": "Gamers Forge Their Own Paths When It Comes to Accessibility",
+      "alt": "Seville",
+      "link": "https://www.theguardian.com/environment/2021/feb/23/how-seville-is-turning-leftover-oranges-into-electricity",
       "itemType": "Article",
-      "image": "https://dl.airtable.com/.attachmentThumbnails/a0c4d8b5d7f9917cee0aec4e42d680fe/794ea550",
+      "title": "How Seville is turning leftover oranges into electricity",
+      "description": "Pilot scheme will use methane from fermenting fruit to create clean power for city water plant.",
+      "time": "6 min read",
+      "image": "https://dl.airtable.com/.attachmentThumbnails/2bb60e8aadd873e9a281cfd572475aec/fdc3691a",
       "typeIconURL": "https://i.imgur.com/m99vnQi.png"
     },
     {
-      "link": "https://www.nytimes.com/2021/02/24/science/nasa-mars-parachute-code.html",
-      "time": "10 min read",
-      "alt": "NASA",
-      "description": "Engineers hinted they had hidden a code in the parachute that landed the Perseverance rover. Within hours, puzzle enthusiasts cracked it.",
-      "title": "NASA's Mars Parachute Had a Hidden Code. Meet the French Student Who Cracked It.",
+      "alt": "Bangkok",
+      "link": "https://twitter.com/ahgamich/status/880395789029302273",
       "itemType": "Article",
-      "image": "https://dl.airtable.com/.attachmentThumbnails/190f70834849fcfc17348a19c87bbab3/ad452a16",
+      "title": "A desperate man entered a Bangkok police station.",
+      "description": "Compassion over hatred!",
+      "time": "1 min read",
+      "image": "https://dl.airtable.com/.attachmentThumbnails/61af893e3554494e1bac71f7b170b2eb/d8abaf58",
       "typeIconURL": "https://i.imgur.com/m99vnQi.png"
     },
     {
-      "link": "https://futurism.com/meet-the-thai-surgeon-that-made-the-worlds-first-elephant-prosthetic",
-      "time": "3 min read",
-      "alt": "Elephant",
-      "description": "Mosha, the Asian elephant, received the first prosthetic limb made especially for her species. ",
-      "title": "Meet Mosha, the Elephant who Received a Prosthetic Leg after a Landmine Explosion",
-      "itemType": "Article & Video",
-      "image": "https://dl.airtable.com/.attachmentThumbnails/ef761cc9d4ef027d6e5a42fbf4fe9070/c5ec9992",
-      "typeIconURL": "https://i.imgur.com/gLT7BO4.png"
-    },
-    {
-      "link": "https://www.themarshallproject.org/2021/02/11/when-the-prison-banned-board-games-we-played-chess-in-our-minds",
-      "time": "11 min read",
-      "alt": "Chess",
-      "description": "“At the heart of our mental chess game lies a profound lesson: The difference between being content or distraught is a matter of perspective.”",
-      "title": "When The Prison Banned Board Games, We Played Chess In Our Minds",
+      "alt": "Uganda",
+      "link": "https://www.bbc.com/news/world-africa-47801008",
       "itemType": "Article",
-      "image": "https://dl.airtable.com/.attachmentThumbnails/4978d152b796dd74303300606c48fa46/99e8fbfa",
+      "title": "Ugandan man becomes a lawyer to win family land back",
+      "description": "Jordan Kinyera goes through 18 years of education, becomes a lawyer and wins his father's court case.",
+      "time": "4 min read",
+      "image": "https://dl.airtable.com/.attachmentThumbnails/b5ef75570802787297fd4f8085f6ee2b/bda60f8d",
       "typeIconURL": "https://i.imgur.com/m99vnQi.png"
     },
     {
-      "link": "https://www.youtube.com/watch?v=9AThycGCakk&feature=emb_title&ab_channel=LifeHunters",
-      "time": "2 min",
-      "alt": "centenarians",
-      "description": "We asked three unique and lovely centenarians what their most valuable life lessons were, and also their regrets.",
-      "title": "Life Lessons From 100-Year-Olds",
+      "alt": "Earth",
+      "link": "https://www.youtube.com/watch?v=8hZl3arO7SY",
       "itemType": "Video",
-      "image": "https://dl.airtable.com/.attachmentThumbnails/ce3b59c950a6feac7b50dc47809cf3e4/c4982e0a",
+      "title": "Carl Sagan's explanation of how the Ancient Greek knew Earth was Round",
+      "description": "Flat earthers: I'll just pretend I didn't see that.",
+      "time": "2:13 min",
+      "image": "https://dl.airtable.com/.attachmentThumbnails/6540a06201bc9dd96a8b341eb2f9085d/7a6e05a9",
+      "typeIconURL": "https://i.imgur.com/xQjdCc8.png"
+    },
+    {
+      "alt": "Electronics",
+      "link": "https://twitter.com/HumansNoContext/status/1366491436984721412",
+      "itemType": "Video",
+      "title": "Electronics goes wrong",
+      "description": "Some of the finest Electronics work I have ever seen.",
+      "time": "2 min",
+      "image": "https://dl.airtable.com/.attachmentThumbnails/b11b3e22e24f247a3022ed936ec9e9a9/cdcada80",
       "typeIconURL": "https://i.imgur.com/xQjdCc8.png"
     }
   ],
   "animalCorner": [
     {
-      "link": "https://www.instagram.com/vincentjmusi/?mc_cid=4b04f7e31f&mc_eid=112b36a715",
-      "time": "2 min read",
-      "alt": "dogPhoto",
-      "description": "See Instagram photos and videos from @vincentjmusi",
-      "title": "This photograph takes outstanding pictures of your doggo",
-      "itemType": "Other",
-      "image": "https://dl.airtable.com/.attachmentThumbnails/673dfbe45d2df1014755c3108fd4694f/e07e7145",
-      "typeIconURL": "https://i.imgur.com/bWJ0JZ1.png"
-    },
-    {
-      "link": "https://www.reddit.com/r/aww/comments/lp84fl/please_hug_me/?utm_source=share&utm_medium=mweb",
-      "time": "1 min",
-      "alt": "hug",
-      "description": "Everything you need now from your cat!",
-      "title": "Please hug me",
+      "alt": "Goat",
+      "link": "https://twitter.com/AnimalsWorId/status/1364197551667220491",
       "itemType": "Video",
-      "image": "https://dl.airtable.com/.attachmentThumbnails/0f4bd817ba88cbf5dc370b26193a8760/0345acc2",
+      "title": "Because every timeline need more baby goats ",
+      "description": "Baby goat vids better that cat vids...hands down!",
+      "time": "0:09 min",
+      "image": "https://dl.airtable.com/.attachmentThumbnails/aaac46a6f0f5d54422d6f0b1d0296d1a/a6d48a72",
       "typeIconURL": "https://i.imgur.com/xQjdCc8.png"
     },
     {
-      "link": "https://twitter.com/DickKingSmith/status/1363890711922434049",
-      "time": "1 min",
-      "alt": "snow",
-      "description": "Felines at their best!",
-      "title": "Snowetry in motion",
+      "alt": "spider",
+      "link": "https://www.reddit.com/r/nextfuckinglevel/comments/lwnhvo/this_is_precision/?utm_source=share&utm_medium=mweb",
       "itemType": "Video",
-      "image": "https://dl.airtable.com/.attachmentThumbnails/9b4c79dc5045debdcd4d3bb87c7e774b/a1abff62",
+      "title": "🕷This is precision",
+      "description": "Do you think he studied web design?",
+      "time": "0:21 min",
+      "image": "https://dl.airtable.com/.attachmentThumbnails/01814db06ba181ed516173327d925c86/42a2876d",
+      "typeIconURL": "https://i.imgur.com/xQjdCc8.png"
+    },
+    {
+      "alt": "Stoat",
+      "link": "https://www.youtube.com/watch?v=2HFSaxIsJCE",
+      "itemType": "Video",
+      "title": "Tiny Baby Stoat",
+      "description": "At less than 4 weeks old, Whisper was abandoned by her mom. Fortunately, Robert cared for her around the clock.",
+      "time": "4:24 min",
+      "image": "https://dl.airtable.com/.attachmentThumbnails/8d26427ab7f485559e634b702aaf5e91/9fb0ee0a",
       "typeIconURL": "https://i.imgur.com/xQjdCc8.png"
     }
-  ]
+  ],
+  "recipe": {
+    "alt": "sakura",
+    "link": "http://www.lemanger.fr/index.php/que-reste-t-il-des-sakura/",
+    "itemType": "Article",
+    "title": "(FR) Que reste-t-il des sakuras ?",
+    "description": "Quand les sakuras se fanent, pas une cerise en vue ! Voici ce qu'il advient des fleurs, et des produits dérivés.",
+    "time": "11 min read",
+    "image": "https://dl.airtable.com/.attachmentThumbnails/3dd932a0b1d18c314d3bdb6599033311/d4893ca1",
+    "typeIconURL": "https://i.imgur.com/m99vnQi.png"
+  }
 }
