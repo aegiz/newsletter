@@ -1,111 +1,111 @@
 {
-  "number": "13",
+  "number": "14",
   "intro": {
-    "content": "Hi {{ contact.FIRSTNAME }}, how is everything going?<br><br>On my side, things have been running quite smoothly: we are now a couple of weeks away from the baby delivery (yes I am going to be a <a class='email-link' href='https://www.youtube.com/watch?v=qkT3tS22TwE' target='_blank'>first-time dad</a>!) and me and my partner are finalizing the last couple of details.<br>Otherwise, regarding this newsletter I shot today a full walkthrough of how I create it every week. So, if you are interested in seeing how things are automated behind the scene <a class='email-link' href='https://youtu.be/C_rV2boYOi0' target='_blank'>this one</a> is for you!<br><br>Have a great week!"
+    "content": "Salut la compagnie, how's life going?<br><br>Nothing much to say on my side this week, the lockdown is prolonged in The Netherlands (again) and I am now really looking forward to have a first dose of vaccine (give me the damn Astra Zenecca thing at least).<br><br>Good news is, I am continuing this newsletter religiously. It's a pleasure to make it every week (and if you like it too you can help by forwarding it to a friend 📩).<br><br>Have a great week all!"
   },
   "hero": {
-    "alt": "MiniatureRoom",
-    "link": "https://www.reddit.com/r/nextfuckinglevel/comments/lt7b9y/miniature_room_behing_electrical_outlet/?utm_source=share&utm_medium=mweb",
-    "itemType": "Article",
-    "title": "Look at this cute miniature room",
-    "description": "So manylittle details (the computer screen displaying super mario world choco island <3!).",
-    "time": "0:30 min read",
-    "image": "https://dl.airtable.com/.attachmentThumbnails/99cc7bc269e16b50992b9b2c5fdf688d/2f81f013",
-    "typeIconURL": "https://i.imgur.com/m99vnQi.png",
-    "why": "When I saw this video it immediately reminded me of these hidden <a class='email-link' href='https://hifructose.com/2016/04/18/jan-vormann-patches-up-old-buildings-with-lego-bricks/' target='_blank'>streetart blocks</a> and the LEGO <a class='email-link' href='https://twitter.com/byscottmiller/status/1355608872556376064' target='_blank'>tiny houses</a> people created on Twitter.<br>I found the intersection between the two simply magical ✨"
+    "link": "https://www.youtube.com/watch?v=0uNonuQmYe0",
+    "time": "3 min",
+    "alt": "AlorsOnDanse",
+    "description": "Here is your daily dose of happiness ",
+    "title": "Alors On Danse (French Fuse Remix) ",
+    "itemType": "Video",
+    "image": "https://dl.airtable.com/.attachmentThumbnails/af5a51b0087716bbeff3b978006516ec/24335b56",
+    "typeIconURL": "https://i.imgur.com/xQjdCc8.png",
+    "why": "I rediscovered French Fuse with their <a class='email-link' href='https://www.youtube.com/watch?v=-ECIZrYc-B4' target='_blank'>epic Daft Punk remix</a>.<br>Turns out they have been very productive during the lockdown and if you are feeling a bit low right now I can guarantee this will cheer you up!"
   },
   "randomArticles": [
     {
-      "alt": "Seville",
-      "link": "https://www.theguardian.com/environment/2021/feb/23/how-seville-is-turning-leftover-oranges-into-electricity",
-      "itemType": "Article",
-      "title": "How Seville is turning leftover oranges into electricity",
-      "description": "Pilot scheme will use methane from fermenting fruit to create clean power for city water plant.",
+      "link": "https://underwaterphotographeroftheyear.com/winners/2021-winners/",
+      "time": "8 min read",
+      "alt": "Underwater",
+      "description": "Topping the 4500 other participants she became the first woman to win this prize since its creation in 1965.",
+      "title": "Renee Capozzola won the prestigious \"Underwater Photographer of the Year\"",
+      "itemType": "Article & Video",
+      "image": "https://dl.airtable.com/.attachmentThumbnails/5b58c80289204493ccacf6e4e045cd4d/eedace84",
+      "typeIconURL": "https://i.imgur.com/gLT7BO4.png"
+    },
+    {
+      "link": "https://www.mcsweeneys.net/articles/the-ux-on-this-small-child-is-terrible",
       "time": "6 min read",
-      "image": "https://dl.airtable.com/.attachmentThumbnails/2bb60e8aadd873e9a281cfd572475aec/fdc3691a",
-      "typeIconURL": "https://i.imgur.com/m99vnQi.png"
-    },
-    {
-      "alt": "Bangkok",
-      "link": "https://twitter.com/ahgamich/status/880395789029302273",
+      "alt": "UX",
+      "description": "An hilarious text about parenting",
+      "title": "The UX on this Small Child Is Terrible ",
       "itemType": "Article",
-      "title": "A desperate man entered a Bangkok police station.",
-      "description": "Compassion over hatred!",
-      "time": "1 min read",
-      "image": "https://dl.airtable.com/.attachmentThumbnails/61af893e3554494e1bac71f7b170b2eb/d8abaf58",
+      "image": "https://dl.airtable.com/.attachmentThumbnails/931fa917a01722d01e4763b34d75186d/e128bfd4",
       "typeIconURL": "https://i.imgur.com/m99vnQi.png"
     },
     {
-      "alt": "Uganda",
-      "link": "https://www.bbc.com/news/world-africa-47801008",
-      "itemType": "Article",
-      "title": "Ugandan man becomes a lawyer to win family land back",
-      "description": "Jordan Kinyera goes through 18 years of education, becomes a lawyer and wins his father's court case.",
-      "time": "4 min read",
-      "image": "https://dl.airtable.com/.attachmentThumbnails/b5ef75570802787297fd4f8085f6ee2b/bda60f8d",
-      "typeIconURL": "https://i.imgur.com/m99vnQi.png"
+      "link": "https://www.camilleseaman.com/photographs/lasticebergseries1",
+      "time": "2 min read",
+      "alt": "iceberg",
+      "description": "Majestuous and melancholic",
+      "title": "Last iceberg photo serie",
+      "itemType": "Other",
+      "image": "https://dl.airtable.com/.attachmentThumbnails/a763fe36ddd543825c0582ab72dbc36a/9cd1881d",
+      "typeIconURL": "https://i.imgur.com/bWJ0JZ1.png"
     },
     {
-      "alt": "Earth",
-      "link": "https://www.youtube.com/watch?v=8hZl3arO7SY",
+      "link": "https://twitter.com/Goodable/status/1369648054148734976",
+      "time": "0:29 min",
+      "alt": "soccer",
+      "description": "He raced down the field, scored a goal, then stared down the crowd 🙃.",
+      "title": "That time a 4-year old stole the ball",
       "itemType": "Video",
-      "title": "Carl Sagan's explanation of how the Ancient Greek knew Earth was Round",
-      "description": "Flat earthers: I'll just pretend I didn't see that.",
-      "time": "2:13 min",
-      "image": "https://dl.airtable.com/.attachmentThumbnails/6540a06201bc9dd96a8b341eb2f9085d/7a6e05a9",
+      "image": "https://dl.airtable.com/.attachmentThumbnails/34d5c5fbfa0d1c71ec7b5a76c3a7779d/d371b98d",
       "typeIconURL": "https://i.imgur.com/xQjdCc8.png"
     },
     {
-      "alt": "Electronics",
-      "link": "https://twitter.com/HumansNoContext/status/1366491436984721412",
-      "itemType": "Video",
-      "title": "Electronics goes wrong",
-      "description": "Some of the finest Electronics work I have ever seen.",
+      "link": "https://twitter.com/buitengebieden_/status/1369066752496242692",
       "time": "2 min",
-      "image": "https://dl.airtable.com/.attachmentThumbnails/b11b3e22e24f247a3022ed936ec9e9a9/cdcada80",
+      "alt": "twins",
+      "description": "How can you not become insane seriously?!",
+      "title": "Time lapse video of when 2-year-old twins are put to bed...",
+      "itemType": "Video",
+      "image": "https://dl.airtable.com/.attachmentThumbnails/4bfb42c1c318e052d7c5a9e5b4c92192/8107a5e8",
       "typeIconURL": "https://i.imgur.com/xQjdCc8.png"
     }
   ],
   "animalCorner": [
     {
+      "link": "https://twitter.com/EwaSR/status/1368958701114163200",
+      "time": "0:06 min",
+      "alt": "bichon",
+      "description": "cuuuuute",
+      "title": "Me doing my best in the current circumstances ",
+      "itemType": "Video",
+      "image": "https://dl.airtable.com/.attachmentThumbnails/ab4866aaf23a6c0ac22d38cf46cba7f8/969ecf50",
+      "typeIconURL": "https://i.imgur.com/xQjdCc8.png"
+    },
+    {
+      "link": "https://www.tiktok.com/@rosiethepygmygoat/video/6915056934446058753?_d=secCgYIASAHKAESMgowW0uL4XCzaoFa6HNAglDRwoiJF3uneruBdazCBh4vPCrz6vUV9UBQHCutfgRTomXeGgA%3D&language=en&preview_pb=0&sec_user_id=MS4wLjABAAAA1MevirHSchNw0DRwn1-ee71lUb_DZ1-04vGntzyOZ8hz_OD2YQvOPtTXLcfzGU7Z&share_item_id=6915056934446058753&share_link_id=9F36F102-34C0-43C6-AE07-2CF851563C71&timestamp=1610747590&tt_from=more&u_code=dc7bkcm6946c89&user_id=6822610596925621253&utm_campaign=client_share&utm_medium=ios&utm_source=more&source=h5_m",
+      "time": "1 min",
       "alt": "Goat",
-      "link": "https://twitter.com/AnimalsWorId/status/1364197551667220491",
+      "description": "🐈 🔥 🐐",
+      "title": "Goat Vs Cat",
       "itemType": "Video",
-      "title": "Because every timeline need more baby goats ",
-      "description": "Baby goat vids better that cat vids...hands down!",
-      "time": "0:09 min",
-      "image": "https://dl.airtable.com/.attachmentThumbnails/aaac46a6f0f5d54422d6f0b1d0296d1a/a6d48a72",
+      "image": "https://dl.airtable.com/.attachmentThumbnails/37b1cfadc05cb52a14272dab92adec0c/4b89d70d",
       "typeIconURL": "https://i.imgur.com/xQjdCc8.png"
     },
     {
-      "alt": "spider",
-      "link": "https://www.reddit.com/r/nextfuckinglevel/comments/lwnhvo/this_is_precision/?utm_source=share&utm_medium=mweb",
+      "link": "https://www.tiktok.com/@storkythecat/video/6899177785823153413?_d=secCgYIASAHKAESMgowEtqkGiQma3CpxACSFqLDnsnaMG2XPqcJEHhRgiWC%2FCuFCqhl%2BofdjNAEIz4ra4jwGgA%3D&language=en&preview_pb=0&sec_user_id=MS4wLjABAAAA1MevirHSchNw0DRwn1-ee71lUb_DZ1-04vGntzyOZ8hz_OD2YQvOPtTXLcfzGU7Z&share_item_id=6899177785823153413&share_link_id=E4619A44-4CD1-415B-AD8D-5D94BB41B061&timestamp=1610839017&tt_from=more&u_code=dc7bkcm6946c89&user_id=6822610596925621253&utm_campaign=client_share&utm_medium=ios&utm_source=more&source=h5_m",
+      "time": "1 min",
+      "alt": "Singing",
+      "description": "Yeaaaahoo",
+      "title": "Singing Storky 😹",
       "itemType": "Video",
-      "title": "🕷This is precision",
-      "description": "Do you think he studied web design?",
-      "time": "0:21 min",
-      "image": "https://dl.airtable.com/.attachmentThumbnails/01814db06ba181ed516173327d925c86/42a2876d",
-      "typeIconURL": "https://i.imgur.com/xQjdCc8.png"
-    },
-    {
-      "alt": "Stoat",
-      "link": "https://www.youtube.com/watch?v=2HFSaxIsJCE",
-      "itemType": "Video",
-      "title": "Tiny Baby Stoat",
-      "description": "At less than 4 weeks old, Whisper was abandoned by her mom. Fortunately, Robert cared for her around the clock.",
-      "time": "4:24 min",
-      "image": "https://dl.airtable.com/.attachmentThumbnails/8d26427ab7f485559e634b702aaf5e91/9fb0ee0a",
+      "image": "https://dl.airtable.com/.attachmentThumbnails/6efa45f55c97bc2234005d636035e635/3eb7dbdb",
       "typeIconURL": "https://i.imgur.com/xQjdCc8.png"
     }
   ],
   "recipe": {
-    "alt": "sakura",
-    "link": "http://www.lemanger.fr/index.php/que-reste-t-il-des-sakura/",
+    "link": "https://www.bonappetit.com/story/how-to-temper-eggs",
+    "time": "5 min read",
+    "alt": "Tortellini",
+    "description": "Soup's on!",
+    "title": "Lemony Tortellini Soup with Spinach and Dill",
     "itemType": "Article",
-    "title": "(FR) Que reste-t-il des sakuras ?",
-    "description": "Quand les sakuras se fanent, pas une cerise en vue ! Voici ce qu'il advient des fleurs, et des produits dérivés.",
-    "time": "11 min read",
-    "image": "https://dl.airtable.com/.attachmentThumbnails/3dd932a0b1d18c314d3bdb6599033311/d4893ca1",
+    "image": "https://dl.airtable.com/.attachmentThumbnails/97960a463a527b4f8951c05654a8e1f7/eb2c44e8",
     "typeIconURL": "https://i.imgur.com/m99vnQi.png"
   }
 }
