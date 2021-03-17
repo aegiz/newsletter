@@ -2,7 +2,7 @@
 
 A Github repo to save all the code related to the newsletter automation.
 
-# Flow
+## Flow
 
 TLDR: See this whole ([Youtube demo](https://youtu.be/C_rV2boYOi0) for a detailed presentation.
 
@@ -26,7 +26,7 @@ Last actions:
   1. Make a backup of this HTML file in the `newsletters` folder
   2. Upload the HTML content to sendinblue. Plan the newsletter and create the preview with the hastags from Airtable.
   3. Update the Notion with Links and hastags.
-  4. Plan post on social media with ([Buffer](https://publish.buffer.com/profile/602ff17e6ab0810efb6e9ce6/tab/queue)
+  4. Plan post on social media with [Buffer](https://publish.buffer.com/profile/602ff17e6ab0810efb6e9ce6/tab/queue)
 
 
 ## Improvements:
