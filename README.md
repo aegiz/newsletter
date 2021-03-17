@@ -4,7 +4,7 @@ A Github repo to save all the code related to the newsletter automation.
 
 ## Flow
 
-TLDR: See this whole ([Youtube demo](https://youtu.be/C_rV2boYOi0) for a detailed presentation.
+TLDR: See this whole ([Youtube demo](https://youtu.be/C_rV2boYOi0) for a detailed presentation).
 
 For every newsletter:
 
