@@ -1,101 +1,101 @@
 {
-  "number": "15",
+  "number": "16",
   "intro": {
-    "content": "Let's be honest, it's a complicated period of time and everybody is exhausted.<br>So I won't start with my usual question 'How's everything going?' but will rather ask you: 'I hope you are doing okay?'<br><br>Otherwise, on the menu this week quite a lot of animals video: Cats, dogs, ducks and a super cute spider video - didn't know I could ever say that.<br><br>Courage!"
+    "content": "Hello friends!<br><br>How was your week? Mine was full of highs and lows, but on the bright side we got our doggo back to our place!<br><br>Regarding this week edition, there is quite a lot of long read articles in there. So, pro-tip if it's taking you too long and you feel rather bored or hungry: jump directly to the end of this newsletter for a tasty surprise.<br><br>Flex!"
   },
   "hero": {
-    "alt": "Farewell",
-    "link": "https://vimeo.com/122499565",
+    "alt": "Pi",
+    "link": "https://www.youtube.com/watch?v=gMlf1ELvRzc",
     "itemType": "Video",
-    "title": "Farewell Art",
-    "description": "From shadow to light / De l'ombre à  la lumière",
-    "time": "2:30 min",
-    "image": "https://dl.airtable.com/.attachmentThumbnails/d0263b0a78be70bf3a39739c44b80460/92918469",
+    "title": "The discovery that transformed Pi",
+    "description": "For thousands of years, mathematicians were calculating Pi inefficiently. Then Newton came along  and changed the game.",
+    "time": "18 min",
+    "image": "https://dl.airtable.com/.attachmentThumbnails/ed13487283d451a9143cada0191e6a9a/38234713",
     "typeIconURL": "https://i.imgur.com/xQjdCc8.png",
-    "why": "Earlier this week while browsing my Twitter history I stumbled upon <a class='email-link' href='https://vimeo.com/99068748' target='_blank'>this video</a> from the artist and performer Farewell.<br>If I remember distinctly sharing this video back in 2014 I actually never took the time to see the others ones!<br>So give yourself a favor and watch these creative <a class='email-link' href='https://vimeo.com/user22823950' target='_blank'>gems</a> :-)"
+    "why": "'Oh no, not again a nerdy video for the Highlight of the week!' I already hear you say.<br><br>Well yes, I won't lie it's about Mathematics. But, but, but bear with me, it also involves 🍕 and a story of Newton making great discoveries while being in lockdown. So, in the end, it's actually a very nice video ;-)"
   },
   "randomArticles": [
     {
-      "alt": "Bolivian",
-      "link": "https://www.bbc.com/news/world-latin-america-39203580",
+      "alt": "Covid19",
+      "link": "https://www.theatlantic.com/health/archive/2021/03/three-ways-pandemic-has-bettered-world/618320/",
       "itemType": "Article",
-      "title": "Bolivian monastery accepts four-legged friar",
-      "description": "A dog who lives in a monastery and has dressed in a traditional habit has become an internet hit.",
-      "time": "4 min read",
-      "image": "https://dl.airtable.com/.attachmentThumbnails/083fb9fc040b8df6dedea1900949416d/2281bfec",
+      "title": "Three ways the pandemic has made the world better",
+      "description": "COVID-19 has inflicted devastating losses. It has also delivered certain blessings.",
+      "time": "19 min read",
+      "image": "https://dl.airtable.com/.attachmentThumbnails/9de13765f22f75556ea7418640093de4/dc050682",
       "typeIconURL": "https://i.imgur.com/m99vnQi.png"
     },
     {
-      "alt": "MotherAndSon",
-      "link": "https://www.reddit.com/r/MadeMeSmile/comments/d0ivvy/son_surprises_his_mom_that_he_hasnt_seen_in_seven/",
-      "itemType": "Video",
-      "title": "Son surprises his mom that he hasn't seen in seven months.",
-      "description": "\"Where did all this pollen come from?\"",
-      "time": "0:27 min",
-      "image": "https://dl.airtable.com/.attachmentThumbnails/c39a5387fc2ffb9c0d7ad6f624e9b75c/71f42d32",
-      "typeIconURL": "https://i.imgur.com/xQjdCc8.png"
+      "alt": "WFH",
+      "link": "https://restofworld.org/2021/heres-what-working-from-home-looks-like/",
+      "itemType": "Other",
+      "title": "What working from home looks like around the world",
+      "description": "From a florist in Tehran to a chef in Bangkok, meet nine workers who turned their homes into makeshift offices.",
+      "time": "13 min read",
+      "image": "https://dl.airtable.com/.attachmentThumbnails/ab3c1423e66d95a74bc553fef6dd6545/1d9f3c41",
+      "typeIconURL": "https://i.imgur.com/bWJ0JZ1.png"
     },
     {
-      "alt": "Petition",
-      "link": "https://www.change.org/p/g%C3%A9rard-gavory-pr%C3%A9fet-de-la-manche-sauvons-les-petites-filles-de-la-baie-du-mt-st-michel-et-leurs-parents-menac%C3%A9s-d-expulsion",
+      "alt": "Freediver",
+      "link": "https://www.menshealth.com/fitness/a35588070/alexey-molchanov-worlds-best-freediver/?utm_source=pocket-newtab-global-en-GB",
       "itemType": "Article",
-      "title": "(FR) Sauvons les petites filles de la baie du Mt St Michel menacés d'expulsion.",
-      "description": "Victoire!",
-      "time": "5 min read",
-      "image": "https://dl.airtable.com/.attachmentThumbnails/68abe9a466e3d81cce48011deed2ee86/31027470",
+      "title": "Who is Alexey “The Machine” Molchanov, the world’s best freediver?",
+      "description": "After an accident, Alexey Molchanov is on a mission to go deeper than he's ever gone before.",
+      "time": "18 min read",
+      "image": "https://dl.airtable.com/.attachmentThumbnails/df04126d21f41eb6df7ca010ff585015/694a05ef",
       "typeIconURL": "https://i.imgur.com/m99vnQi.png"
     },
     {
-      "alt": "Syria",
-      "link": "https://creativememory.org/en/archives/",
-      "itemType": "Article & Video",
-      "title": "Documenting the Syrian revolution",
-      "description": "An interactive map to see the positive outlook despite of the war.",
-      "time": "2 min read",
-      "image": "https://dl.airtable.com/.attachmentThumbnails/bc1d9d85a37f32da7a79a6b8f3d7e3b2/5f40e330",
-      "typeIconURL": "https://i.imgur.com/gLT7BO4.png"
+      "alt": "Senior",
+      "link": "https://www.theguardian.com/world/2021/mar/07/french-senior-citizens-link-up-with-language-students-in-lockdown?utm_term=9d55df2f68c1c850b20581ecdc15ccb8&utm_campaign=TheUpside&utm_source=esp&utm_medium=Email&CMP=upside_email",
+      "itemType": "Article",
+      "title": "Senior citizens link up with language students in lockdown",
+      "description": "ShareAmi scheme aims to combat the isolation felt by many older people during the pandemic",
+      "time": "7 min read",
+      "image": "https://dl.airtable.com/.attachmentThumbnails/2dd98ab3780d7f72a2e3334b93c3d5bb/95002d0a",
+      "typeIconURL": "https://i.imgur.com/m99vnQi.png"
     }
   ],
   "animalCorner": [
     {
-      "alt": "spider",
-      "link": "https://twitter.com/ChappellTracker/status/1373265955833397249",
-      "title": "Accessible architecture for aging spiders",
-      "description": "\"I think my heart just exploded.\"",
-      "time": "1 min",
-      "image": "https://dl.airtable.com/.attachmentThumbnails/d64010d72e6a24fad262daeac5484552/f1dd7d2b",
+      "alt": "Flute",
+      "link": "https://www.youtube.com/watch?v=1khvZBQjOa8",
       "itemType": "Video",
+      "title": "Dog Howling at flute playing",
+      "description": "Translation: \"NOOOOOOOOOO!\"",
+      "time": "1 min",
+      "image": "https://dl.airtable.com/.attachmentThumbnails/a9571e6d43fc3c6d9f2b1d5791720055/d8130708",
       "typeIconURL": "https://i.imgur.com/xQjdCc8.png"
     },
     {
-      "alt": "Dog",
-      "link": "https://twitter.com/buitengebieden_/status/1370687261080231943",
+      "alt": "StreetFighter",
+      "link": "https://twitter.com/wazwuz/status/1370509154226380804",
       "itemType": "Video",
-      "title": "The perfect loop",
-      "description": "Wheeee!!!",
+      "title": "Finish him!",
+      "description": "Think your were good at Street Fighter, think again!",
       "time": "1 min",
-      "image": "https://dl.airtable.com/.attachmentThumbnails/7de8a1f8e7399beb3827064835e9b3bf/825e4413",
+      "image": "https://dl.airtable.com/.attachmentThumbnails/229bd77df5371db34b660704435b6fe8/f9a44b42",
       "typeIconURL": "https://i.imgur.com/xQjdCc8.png"
     },
     {
-      "alt": "woodcock",
-      "link": "https://twitter.com/AnimalsWorId/status/1371756760344629251",
+      "alt": "Peacock",
+      "link": "https://www.reddit.com/r/nextfuckinglevel/comments/lsunn8/a_rare_white_peacock_displaying_its_feathers/?utm_source=share&utm_medium=mweb",
       "itemType": "Video",
-      "title": "American woodcock luring worms",
-      "description": "Now this is just too darn cute!  I think we should all dance for our dinner!",
+      "title": "A rare white Peacock displaying its feathers",
+      "description": "It's Sheng from kung fu panda 2",
       "time": "1 min",
-      "image": "https://dl.airtable.com/.attachmentThumbnails/808b8d95f07279fa7b4bdbbba7a5784f/9dafca7a",
-      "typeIconURL": "https://i.imgur.com/xQjdCc8.png"
-    },
-    {
-      "alt": "McDonalds",
-      "link": "https://twitter.com/Gerbil_Ely/status/1372824718353575936",
-      "itemType": "Video",
-      "title": "What's the most weird thing that triggers your dog?",
-      "description": "I am loving it!",
-      "time": "1 min",
-      "image": "https://dl.airtable.com/.attachmentThumbnails/0a3bcdbe186572472dbd456632f18cee/2fef8776",
+      "image": "https://dl.airtable.com/.attachmentThumbnails/0337b3c6c454285ea3c34a6f2ac7f60c/ffeb6b8d",
       "typeIconURL": "https://i.imgur.com/xQjdCc8.png"
     }
-  ]
+  ],
+  "recipe": {
+    "alt": "Pasta",
+    "link": "https://kottke.org/21/03/the-invention-of-a-new-pasta-shape",
+    "itemType": "Article",
+    "title": "The Invention of a New Pasta Shape",
+    "description": "Cascatelli is designed to maximize the three qualities by which Dan believes all pasta shapes should be judged: Sauceability, Forkability, Toothsinkability",
+    "time": "2 min read",
+    "image": "https://dl.airtable.com/.attachmentThumbnails/a8886e5fc105f6f0ce4c2d1aaa3c4ebb/b1034333",
+    "typeIconURL": "https://i.imgur.com/m99vnQi.png"
+  }
 }
