@@ -1,101 +1,111 @@
 {
-  "number": "16",
+  "number": "17",
   "intro": {
-    "content": "Hello friends!<br><br>How was your week? Mine was full of highs and lows, but on the bright side we got our doggo back to our place!<br><br>Regarding this week edition, there is quite a lot of long read articles in there. So, pro-tip if it's taking you too long and you feel rather bored or hungry: jump directly to the end of this newsletter for a tasty surprise.<br><br>Flex!"
+    "content": "Hello friends!<br><br>How is this long easter weekend going?<br><br>Not so many easter eggs for me this year, but instead a nice batch of French rillettes freshly arrived from France 😋.<br>AND because I got so enthusiastic about it I found you the recipe that I listed at the end of this edition.<br><br>Bonne dégustation!"
   },
   "hero": {
-    "alt": "Pi",
-    "link": "https://www.youtube.com/watch?v=gMlf1ELvRzc",
-    "itemType": "Video",
-    "title": "The discovery that transformed Pi",
-    "description": "For thousands of years, mathematicians were calculating Pi inefficiently. Then Newton came along  and changed the game.",
-    "time": "18 min",
-    "image": "https://dl.airtable.com/.attachmentThumbnails/ed13487283d451a9143cada0191e6a9a/38234713",
-    "typeIconURL": "https://i.imgur.com/xQjdCc8.png",
-    "why": "'Oh no, not again a nerdy video for the Highlight of the week!' I already hear you say.<br><br>Well yes, I won't lie it's about Mathematics. But, but, but bear with me, it also involves 🍕 and a story of Newton making great discoveries while being in lockdown. So, in the end, it's actually a very nice video ;-)"
+    "link": "https://edition.cnn.com/2021/04/01/sport/north-south-korea-2032-olympics-host-spt-intl/index.html",
+    "time": "5 min read",
+    "alt": "Olympics",
+    "description": "Seoul said on Thursday it has sent a proposal for co-hosting the 2032 Olympics with the North.",
+    "title": "Could North and South Korea joint host the 2032 Games?",
+    "itemType": "Article",
+    "image": "https://dl.airtable.com/.attachmentThumbnails/f6ddbc18acd835d296fa6cd899ec21e7/6097e641",
+    "typeIconURL": "https://i.imgur.com/m99vnQi.png",
+    "why": "When I took this picture in December 2018 I remember distinctly wondering what all these Korean blue flags were.<br>At that time, my partner and I were visiting the DMZ and we eventually found out that <a class='email-link' href='https://en.wikipedia.org/wiki/Korean_Unification_Flag' target='_blank'>the Korean unification flag</a> is a symbol of peaceful relationship and coexistence.<br><br>So, it was a nice surprise to meet again with this blue flag.<br>I crossed my fingers and hope that in 2032 there will be more of this!"
   },
   "randomArticles": [
     {
-      "alt": "Covid19",
-      "link": "https://www.theatlantic.com/health/archive/2021/03/three-ways-pandemic-has-bettered-world/618320/",
+      "link": "https://www.theguardian.com/world/2021/mar/30/powerful-tugs-and-an-ebbing-tide-how-the-ever-given-was-freed?utm_term=6dbac4eb9689060da2f39868dda4b8e2&utm_campaign=TheUpside&utm_source=esp&utm_medium=Email&CMP=upside_email",
+      "time": "6 min read",
+      "alt": "SuezCanal",
+      "description": "See how nature and logistics aligned to unblock the giant cargo!",
+      "title": "The Ever Given from Suez canal is now free!",
       "itemType": "Article",
-      "title": "Three ways the pandemic has made the world better",
-      "description": "COVID-19 has inflicted devastating losses. It has also delivered certain blessings.",
-      "time": "19 min read",
-      "image": "https://dl.airtable.com/.attachmentThumbnails/9de13765f22f75556ea7418640093de4/dc050682",
+      "image": "https://dl.airtable.com/.attachmentThumbnails/4d4f3379f17d9f6dab2a816835f0bfaf/34915a55",
       "typeIconURL": "https://i.imgur.com/m99vnQi.png"
     },
     {
-      "alt": "WFH",
-      "link": "https://restofworld.org/2021/heres-what-working-from-home-looks-like/",
+      "link": "https://www.classicfm.com/discover-music/latest/hieronymus-bosch-naked-bum-music/",
+      "time": "3 min read",
+      "alt": "RenaissanceGotWild",
+      "description": "Bosch is famous for his painting of hell. But have you ever noticed this bizarre ditty painted on a poor sinner’s naked behind?",
+      "title": "A wild Renaissance painting shows music written on a pair of buttocks.",
+      "itemType": "Article & Video",
+      "image": "https://dl.airtable.com/.attachmentThumbnails/dfa365015754c7c90aaa87bedaa3bade/877598bf",
+      "typeIconURL": "https://i.imgur.com/gLT7BO4.png"
+    },
+    {
+      "link": "https://www.euronews.com/living/2021/03/26/these-disposable-face-masks-are-designed-to-be-thrown-away?utm_term=6dbac4eb9689060da2f39868dda4b8e2&utm_campaign=TheUpside&utm_source=esp&utm_medium=Email&CMP=upside_email",
+      "time": "3 min read",
+      "alt": "Mask",
+      "description": "A designer has come up with the idea of putting flower seeds between rice paper to create a biodegradable face covering that can be planted in your garden.",
+      "title": "These disposable face masks are designed to be thrown away.",
+      "itemType": "Article & Video",
+      "image": "https://dl.airtable.com/.attachmentThumbnails/97d0ad29178aa5d932ce6f733e0ac991/38c4a4c9",
+      "typeIconURL": "https://i.imgur.com/gLT7BO4.png"
+    },
+    {
+      "link": "https://collections.louvre.fr/en/",
+      "time": "5 min read",
+      "alt": "Louvre",
+      "description": "After two years of work you can finally see 75% of the Louvre collections online!",
+      "title": "All the collections of the Louvre",
       "itemType": "Other",
-      "title": "What working from home looks like around the world",
-      "description": "From a florist in Tehran to a chef in Bangkok, meet nine workers who turned their homes into makeshift offices.",
-      "time": "13 min read",
-      "image": "https://dl.airtable.com/.attachmentThumbnails/ab3c1423e66d95a74bc553fef6dd6545/1d9f3c41",
+      "image": "https://dl.airtable.com/.attachmentThumbnails/227117aca7d0b2c549689dd6ccf58256/8b6c562d",
       "typeIconURL": "https://i.imgur.com/bWJ0JZ1.png"
     },
     {
-      "alt": "Freediver",
-      "link": "https://www.menshealth.com/fitness/a35588070/alexey-molchanov-worlds-best-freediver/?utm_source=pocket-newtab-global-en-GB",
-      "itemType": "Article",
-      "title": "Who is Alexey “The Machine” Molchanov, the world’s best freediver?",
-      "description": "After an accident, Alexey Molchanov is on a mission to go deeper than he's ever gone before.",
-      "time": "18 min read",
-      "image": "https://dl.airtable.com/.attachmentThumbnails/df04126d21f41eb6df7ca010ff585015/694a05ef",
-      "typeIconURL": "https://i.imgur.com/m99vnQi.png"
-    },
-    {
-      "alt": "Senior",
-      "link": "https://www.theguardian.com/world/2021/mar/07/french-senior-citizens-link-up-with-language-students-in-lockdown?utm_term=9d55df2f68c1c850b20581ecdc15ccb8&utm_campaign=TheUpside&utm_source=esp&utm_medium=Email&CMP=upside_email",
-      "itemType": "Article",
-      "title": "Senior citizens link up with language students in lockdown",
-      "description": "ShareAmi scheme aims to combat the isolation felt by many older people during the pandemic",
-      "time": "7 min read",
-      "image": "https://dl.airtable.com/.attachmentThumbnails/2dd98ab3780d7f72a2e3334b93c3d5bb/95002d0a",
-      "typeIconURL": "https://i.imgur.com/m99vnQi.png"
+      "link": "https://www.youtube.com/watch?v=eTAsANPVqB8",
+      "time": "x min",
+      "alt": "Eagles",
+      "description": "Take a live peek inside this massive bald eagle nest in Decorah, Iowa.",
+      "title": "Decorah Eagles",
+      "itemType": "Video",
+      "image": "https://dl.airtable.com/.attachmentThumbnails/61a42ceb612ae00f3f6008ba829c42bd/8a398fa9",
+      "typeIconURL": "https://i.imgur.com/xQjdCc8.png"
     }
   ],
   "animalCorner": [
     {
-      "alt": "Flute",
-      "link": "https://www.youtube.com/watch?v=1khvZBQjOa8",
-      "itemType": "Video",
-      "title": "Dog Howling at flute playing",
-      "description": "Translation: \"NOOOOOOOOOO!\"",
+      "link": "https://twitter.com/Jess_asli/status/1376236827275886603",
       "time": "1 min",
-      "image": "https://dl.airtable.com/.attachmentThumbnails/a9571e6d43fc3c6d9f2b1d5791720055/d8130708",
+      "alt": "chicken",
+      "description": "Wait for it...  🥰",
+      "title": "Hello sweet chicken, what have you been doing? ",
+      "itemType": "Video",
+      "image": "https://dl.airtable.com/.attachmentThumbnails/70223bcc3fe9b23d2986b9a807779f43/966242d7",
       "typeIconURL": "https://i.imgur.com/xQjdCc8.png"
     },
     {
-      "alt": "StreetFighter",
-      "link": "https://twitter.com/wazwuz/status/1370509154226380804",
-      "itemType": "Video",
-      "title": "Finish him!",
-      "description": "Think your were good at Street Fighter, think again!",
-      "time": "1 min",
-      "image": "https://dl.airtable.com/.attachmentThumbnails/229bd77df5371db34b660704435b6fe8/f9a44b42",
-      "typeIconURL": "https://i.imgur.com/xQjdCc8.png"
+      "link": "https://twitter.com/buitengebieden_/status/1375919851223592961",
+      "time": "1 min read",
+      "alt": "otter",
+      "description": "💪",
+      "title": "Teamwork",
+      "itemType": "Article",
+      "image": "https://dl.airtable.com/.attachmentThumbnails/ef298abfbb49b6254ed930533332f4e1/58b5f611",
+      "typeIconURL": "https://i.imgur.com/m99vnQi.png"
     },
     {
-      "alt": "Peacock",
-      "link": "https://www.reddit.com/r/nextfuckinglevel/comments/lsunn8/a_rare_white_peacock_displaying_its_feathers/?utm_source=share&utm_medium=mweb",
-      "itemType": "Video",
-      "title": "A rare white Peacock displaying its feathers",
-      "description": "It's Sheng from kung fu panda 2",
+      "link": "https://twitter.com/bertrand_k/status/1376623816353386496",
       "time": "1 min",
-      "image": "https://dl.airtable.com/.attachmentThumbnails/0337b3c6c454285ea3c34a6f2ac7f60c/ffeb6b8d",
+      "alt": "Cat",
+      "description": "🤯",
+      "title": "It's not a cat, it's a tiger!",
+      "itemType": "Video",
+      "image": "https://dl.airtable.com/.attachmentThumbnails/91b2f8708cfb9f5522234b41e0ed18a9/be4563eb",
       "typeIconURL": "https://i.imgur.com/xQjdCc8.png"
     }
   ],
   "recipe": {
-    "alt": "Pasta",
-    "link": "https://kottke.org/21/03/the-invention-of-a-new-pasta-shape",
+    "alt": "Wild",
+    "link": "https://georgiapellegrini.com/2018/09/19/food-drink/winter/wild-boar-rillettes/",
     "itemType": "Article",
-    "title": "The Invention of a New Pasta Shape",
-    "description": "Cascatelli is designed to maximize the three qualities by which Dan believes all pasta shapes should be judged: Sauceability, Forkability, Toothsinkability",
-    "time": "2 min read",
-    "image": "https://dl.airtable.com/.attachmentThumbnails/a8886e5fc105f6f0ce4c2d1aaa3c4ebb/b1034333",
+    "title": "Wild Boar Rillettes",
+    "description": "Make this rich, smooth and decadent recipe for Wild Boar Rillettes, a wonderful way to use both domestic pork and wild pork and store it for the winter months.",
+    "time": "4 min read",
+    "image": "https://dl.airtable.com/.attachmentThumbnails/27b1b18bb8d5e5dcec5f14c39c558bf0/e1c8dadf",
     "typeIconURL": "https://i.imgur.com/m99vnQi.png"
   }
 }
