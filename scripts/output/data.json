@@ -1,111 +1,101 @@
 {
-  "number": "17",
+  "number": "18",
   "intro": {
-    "content": "Hello friends!<br><br>How is this long easter weekend going?<br><br>Not so many easter eggs for me this year, but instead a nice batch of French rillettes freshly arrived from France 😋.<br>AND because I got so enthusiastic about it I found you the recipe that I listed at the end of this edition.<br><br>Bonne dégustation!"
+    "content": "Hi friends, how is everything going?<br><br>Here, we are now entering the 40th week of the pregnancy and we cannot wait to say hi to the baby.<br>Current status? <a class='email-link' href='http://gph.is/2GCm0vt' target='_blank'>this</a>.<br><br>Let's roll!"
   },
   "hero": {
-    "link": "https://edition.cnn.com/2021/04/01/sport/north-south-korea-2032-olympics-host-spt-intl/index.html",
-    "time": "5 min read",
-    "alt": "Olympics",
-    "description": "Seoul said on Thursday it has sent a proposal for co-hosting the 2032 Olympics with the North.",
-    "title": "Could North and South Korea joint host the 2032 Games?",
-    "itemType": "Article",
-    "image": "https://dl.airtable.com/.attachmentThumbnails/f6ddbc18acd835d296fa6cd899ec21e7/6097e641",
-    "typeIconURL": "https://i.imgur.com/m99vnQi.png",
-    "why": "When I took this picture in December 2018 I remember distinctly wondering what all these Korean blue flags were.<br>At that time, my partner and I were visiting the DMZ and we eventually found out that <a class='email-link' href='https://en.wikipedia.org/wiki/Korean_Unification_Flag' target='_blank'>the Korean unification flag</a> is a symbol of peaceful relationship and coexistence.<br><br>So, it was a nice surprise to meet again with this blue flag.<br>I crossed my fingers and hope that in 2032 there will be more of this!"
+    "link": "https://www.youtube.com/watch?v=XYqz1F6eAVU",
+    "time": "19 min",
+    "alt": "ChairForDog",
+    "description": "My dog would really prefer it if I turned myself into a dog bed. Since I'm not too keen on that project, I built her a chair instead.",
+    "title": "A chair made for needy pets",
+    "itemType": "Video",
+    "image": "https://dl.airtable.com/.attachmentThumbnails/be37d93399aedc9f4d2c46a3416184b7/4185241e",
+    "typeIconURL": "https://i.imgur.com/xQjdCc8.png",
+    "why": "I actually discovered the work of Simone Grietz a while back when she made this <a class='email-link' href='https://www.youtube.com/watch?v=rvG6V_BXsTE' target='_blank'>super cute dog selfie booth</a>. But OMG, her last video is absolutely fantastic!<br> Her dog, Scraps, looks so much like Lilo (yup same neediness 🙄), our little coton de Tulear and I loved to see the different steps it took to design this custom chair!"
   },
   "randomArticles": [
     {
-      "link": "https://www.theguardian.com/world/2021/mar/30/powerful-tugs-and-an-ebbing-tide-how-the-ever-given-was-freed?utm_term=6dbac4eb9689060da2f39868dda4b8e2&utm_campaign=TheUpside&utm_source=esp&utm_medium=Email&CMP=upside_email",
-      "time": "6 min read",
-      "alt": "SuezCanal",
-      "description": "See how nature and logistics aligned to unblock the giant cargo!",
-      "title": "The Ever Given from Suez canal is now free!",
-      "itemType": "Article",
-      "image": "https://dl.airtable.com/.attachmentThumbnails/4d4f3379f17d9f6dab2a816835f0bfaf/34915a55",
-      "typeIconURL": "https://i.imgur.com/m99vnQi.png"
-    },
-    {
-      "link": "https://www.classicfm.com/discover-music/latest/hieronymus-bosch-naked-bum-music/",
-      "time": "3 min read",
-      "alt": "RenaissanceGotWild",
-      "description": "Bosch is famous for his painting of hell. But have you ever noticed this bizarre ditty painted on a poor sinner’s naked behind?",
-      "title": "A wild Renaissance painting shows music written on a pair of buttocks.",
-      "itemType": "Article & Video",
-      "image": "https://dl.airtable.com/.attachmentThumbnails/dfa365015754c7c90aaa87bedaa3bade/877598bf",
-      "typeIconURL": "https://i.imgur.com/gLT7BO4.png"
-    },
-    {
-      "link": "https://www.euronews.com/living/2021/03/26/these-disposable-face-masks-are-designed-to-be-thrown-away?utm_term=6dbac4eb9689060da2f39868dda4b8e2&utm_campaign=TheUpside&utm_source=esp&utm_medium=Email&CMP=upside_email",
-      "time": "3 min read",
-      "alt": "Mask",
-      "description": "A designer has come up with the idea of putting flower seeds between rice paper to create a biodegradable face covering that can be planted in your garden.",
-      "title": "These disposable face masks are designed to be thrown away.",
-      "itemType": "Article & Video",
-      "image": "https://dl.airtable.com/.attachmentThumbnails/97d0ad29178aa5d932ce6f733e0ac991/38c4a4c9",
-      "typeIconURL": "https://i.imgur.com/gLT7BO4.png"
-    },
-    {
-      "link": "https://collections.louvre.fr/en/",
-      "time": "5 min read",
-      "alt": "Louvre",
-      "description": "After two years of work you can finally see 75% of the Louvre collections online!",
-      "title": "All the collections of the Louvre",
+      "link": "https://www.dianedufraisy.com/albums/imaginarium/",
+      "time": "2 min read",
+      "alt": "urbex",
+      "description": "Abandoned places are like secret gardens. #Urbex #Art #PoeticGarden",
+      "title": "Imaginarium – DIANE DUFRAISY",
       "itemType": "Other",
-      "image": "https://dl.airtable.com/.attachmentThumbnails/227117aca7d0b2c549689dd6ccf58256/8b6c562d",
+      "image": "https://dl.airtable.com/.attachmentThumbnails/17a42d595f2c50901e804d4847bb1761/158944a1",
       "typeIconURL": "https://i.imgur.com/bWJ0JZ1.png"
     },
     {
-      "link": "https://www.youtube.com/watch?v=eTAsANPVqB8",
-      "time": "x min",
-      "alt": "Eagles",
-      "description": "Take a live peek inside this massive bald eagle nest in Decorah, Iowa.",
-      "title": "Decorah Eagles",
+      "link": "https://twitter.com/womenpostingws/status/1379161704374886402",
+      "time": "1 min",
+      "alt": "TiktokGrandma",
+      "description": "The most famous Tik Tok grandma do tricks",
+      "title": "Dat grandma!",
       "itemType": "Video",
-      "image": "https://dl.airtable.com/.attachmentThumbnails/61a42ceb612ae00f3f6008ba829c42bd/8a398fa9",
+      "image": "https://dl.airtable.com/.attachmentThumbnails/1291ed38a3a6d0f4d2e79710da1b08fb/d6553e83",
       "typeIconURL": "https://i.imgur.com/xQjdCc8.png"
+    },
+    {
+      "link": "https://twitter.com/jeanqasaur/status/1379228061980258306",
+      "time": "1 min read",
+      "alt": "AI",
+      "description": "Ok, ok, this one is not so positive. Still funny tho ☠️.<br>(Thanks Ed' for sharing) ",
+      "title": "This is the real AI takeover.",
+      "itemType": "Other",
+      "image": "https://dl.airtable.com/.attachmentThumbnails/dec1d191e3c2bf49aee717fbafaa2772/b5af95fc",
+      "typeIconURL": "https://i.imgur.com/m99vnQi.png"
+    },
+    {
+      "link": "https://www.theguardian.com/australia-news/2021/apr/08/thinking-inside-the-box-the-welsh-teen-who-tried-to-post-himself-home-from-australia?mc_cid=f19d962249&mc_eid=112b36a715",
+      "time": "5 min read",
+      "alt": "suitcase",
+      "description": "Homesick and unable to afford the airfare, Brian Robson embarked on a crate escape to Wales. Now he’s looking for the two Irish men who nailed it shut.",
+      "title": "The Welsh teen who tried to post himself home from Australia",
+      "itemType": "Article",
+      "image": "https://dl.airtable.com/.attachmentThumbnails/1be16cf911a83efc3a9e326c3c5a019e/0f13e4e1",
+      "typeIconURL": "https://i.imgur.com/m99vnQi.png"
     }
   ],
   "animalCorner": [
     {
-      "link": "https://twitter.com/Jess_asli/status/1376236827275886603",
-      "time": "1 min",
-      "alt": "chicken",
-      "description": "Wait for it...  🥰",
-      "title": "Hello sweet chicken, what have you been doing? ",
+      "link": "https://www.youtube.com/watch?v=SGleaTJoy1U",
+      "time": "2 min",
+      "alt": "Echidna",
+      "description": "More cuteness and scientific explanation <a class='email-link' href='https://twitter.com/Rainmaker1973/status/1379728198301286402' target='_blank'>here</a>.",
+      "title": "Baby Echidna are soo cute! ",
       "itemType": "Video",
-      "image": "https://dl.airtable.com/.attachmentThumbnails/70223bcc3fe9b23d2986b9a807779f43/966242d7",
+      "image": "https://dl.airtable.com/.attachmentThumbnails/625cee130cae4c48ca276870fd648053/123561e2",
       "typeIconURL": "https://i.imgur.com/xQjdCc8.png"
     },
     {
-      "link": "https://twitter.com/buitengebieden_/status/1375919851223592961",
-      "time": "1 min read",
-      "alt": "otter",
-      "description": "💪",
-      "title": "Teamwork",
-      "itemType": "Article",
-      "image": "https://dl.airtable.com/.attachmentThumbnails/ef298abfbb49b6254ed930533332f4e1/58b5f611",
-      "typeIconURL": "https://i.imgur.com/m99vnQi.png"
+      "link": "https://twitter.com/Jess_asli/status/1379536035126906886",
+      "time": "2 min",
+      "alt": "InnocentDoggo",
+      "description": "That plant attacked me!",
+      "title": "\"Looks innocent to me... What do you think? 🤔",
+      "itemType": "Video",
+      "image": "https://dl.airtable.com/.attachmentThumbnails/94e3b948b4fa13648ce0c45d4d6d1854/ff25a597",
+      "typeIconURL": "https://i.imgur.com/xQjdCc8.png"
     },
     {
-      "link": "https://twitter.com/bertrand_k/status/1376623816353386496",
+      "link": "https://9gag.com/gag/a5E1BVr?ref=fb.s&fbclid=IwAR1voNXIQLiM-G41I33em74nhClAsh9uoeeWHU2LUwEpSiA1Qv40zh5w4WE",
       "time": "1 min",
-      "alt": "Cat",
-      "description": "🤯",
-      "title": "It's not a cat, it's a tiger!",
+      "alt": "PoliceDog",
+      "description": "He looks so concerned",
+      "title": "I adopted an old police dog...wait for it",
       "itemType": "Video",
-      "image": "https://dl.airtable.com/.attachmentThumbnails/91b2f8708cfb9f5522234b41e0ed18a9/be4563eb",
+      "image": "https://dl.airtable.com/.attachmentThumbnails/0f0382cc9c740d520a5335e8728635ea/c2ae8035",
       "typeIconURL": "https://i.imgur.com/xQjdCc8.png"
     }
   ],
   "recipe": {
-    "alt": "Wild",
-    "link": "https://georgiapellegrini.com/2018/09/19/food-drink/winter/wild-boar-rillettes/",
+    "alt": "Stuffed",
+    "link": "https://docs.google.com/document/d/1WU-xvRtMb-U7Z1B8cHo-Ak4OGYCAnWduHO6aoqNlD6k/edit?usp=sharing",
     "itemType": "Article",
-    "title": "Wild Boar Rillettes",
-    "description": "Make this rich, smooth and decadent recipe for Wild Boar Rillettes, a wonderful way to use both domestic pork and wild pork and store it for the winter months.",
-    "time": "4 min read",
-    "image": "https://dl.airtable.com/.attachmentThumbnails/27b1b18bb8d5e5dcec5f14c39c558bf0/e1c8dadf",
+    "title": "Stuffed baby aubergines",
+    "description": "This yummy recipe was initially shared on Twitter by the talented @jaskirankdesign.<br>So, follow this quick step-by-step guide to make delicious stuffed baby aubergines.",
+    "time": "15 min read",
+    "image": "https://dl.airtable.com/.attachmentThumbnails/32340d7d008b266d6c6efbd0280e4cfb/cdc1bb45",
     "typeIconURL": "https://i.imgur.com/m99vnQi.png"
   }
 }
